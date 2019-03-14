@@ -1,0 +1,30 @@
+.red-package .per-right .main-content .text-list {
+  min-height: 700px;
+}
+.red-package .per-right .main-content .text-list ul li {
+  float: none;
+}
+.red-package .per-right .main-content .page-nav {
+  text-align: right;
+}
+.red-package .per-right .main-content .page-nav a {
+  font-size: 13px;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  color: #747580;
+  line-height: 26px;
+  text-align: center;
+}
+.red-package .per-right .main-content .page-nav a.active {
+  background-color: #FC4141;
+  color: #fff;
+}
+/*红包详情开始*/
+.redpackage-post-header {
+  border-bottom: 1px solid #bfbfbf;
+}
+.redpackage-post-main {
+  margin-top: 32px;
+}
+/*红包详情结束*/

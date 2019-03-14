@@ -1,0 +1,68 @@
+/*政务节点活动开始*/
+/*1.辅助业务节点工作，助力宣传推广创新开始*/
+.gn-auxiliary .gn-auxiliary-content .row .per50 {
+  margin-bottom: 56px;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box {
+  width: 96.33333%;
+  border: 1px solid #DFDFDF;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-left {
+  width: 39.79%;
+  float: left;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-left .pic {
+  min-height: 162px;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-left .pic img {
+  width: 100%;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-right {
+  width: 348px;
+  width: 60.21%;
+  float: left;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-right .text-box {
+  width: 100%;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-right .text-box .text {
+  min-height: 162px;
+  padding-top: 32px;
+  width: 280px;
+  width: 80.46%;
+  margin: 0 auto;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-right .text-box .text h2 {
+  color: #3A2628;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 13px;
+}
+.gn-auxiliary .gn-auxiliary-content .row .per50 .item-box .row-inner .per-right .text-box .text p {
+  font-size: 14px;
+  color: #6D6D6D;
+  font-weight: 300;
+}
+/*1.辅助业务节点工作，助力宣传推广创新结束*/
+/*2.案例展示开始*/
+.gn-case-show {
+  padding-bottom: 80px;
+}
+.gn-case-show .tcd-case-show-content {
+  margin-top: 80px;
+}
+.gn-case-show .tcd-case-show-content .per33 {
+  min-height: 515px;
+}
+.gn-case-show .tcd-case-show-content .per33 .pic {
+  width: 100%;
+  margin: 0 auto;
+}
+.gn-case-show .tcd-case-show-content .per33 .pic img {
+  width: 70.97%;
+}
+.gn-case-show .tcd-case-show-content .per33 .pic:hover img {
+  width: 79.5%;
+}
+/*2.案例展示结束*/
+/*政务节点活动结束*/

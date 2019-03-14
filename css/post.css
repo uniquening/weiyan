@@ -1,0 +1,51 @@
+.post .per-right .main-content .text-content p {
+  color: #838383;
+  padding-bottom: 25px;
+  text-indent: 2em;
+}
+.post .per-right .main-content .text-content .per50 {
+  width: 50%;
+}
+.post .per-right .main-content .text-content .padding10 {
+  padding: 10px;
+}
+.post .per-right .main-content .text-content .padding10.border-dfdfdf {
+  border: 1px solid #dfdfdf;
+}
+.post .per-right .main-content .text-content img {
+  width: 100%;
+}
+.post .per-right .main-content .text-content h2 {
+  text-align: center;
+  margin: 15px 0;
+}
+.post .per-right .main-content .text-content h5 {
+  text-align: center;
+  color: #ADAAAA;
+  font-size: 12px;
+  margin-bottom: 50px;
+}
+.post .per-right .main-content .text-content h5 img {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  top: 2px;
+}
+.post .per-right .main-content .text-content .pic2 {
+  float: none;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.post .per-right .main-content .text-content .pic2 .pic-content {
+  display: inline-block;
+  padding: 13px;
+  border: 1px solid #DFDFDF;
+  width: 50%;
+}
+.post .per-right .main-content .text-content .pic2 .pic-content img {
+  width: 100%;
+}
+.red-package.post .per-right .main-content .text-content {
+  padding-bottom: 40px;
+}

@@ -1,0 +1,195 @@
+/* 活动推广开始 */
+/* 2.线上宣传开始 */
+.ap-online-propaganda {
+  min-height: 701px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left {
+  width: 38.25%;
+  float: left;
+  min-height: 620px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content {
+  position: relative;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer {
+  width: 171px;
+  height: 171px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: rgba(251, 97, 53, 0.2);
+  padding: 16px 0;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer .circle-inner {
+  width: 139px;
+  height: 139px;
+  border-radius: 50%;
+  background-color: #fb6135;
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer .circle-inner .text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer .circle-inner .text h3 {
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+  width: 76px;
+  margin: 0 auto;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer:first-of-type {
+  right: 0;
+  top: 0;
+  margin-right: 24.4%;
+  margin-top: 0px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer:nth-of-type(2) {
+  right: 0;
+  top: 0;
+  margin-right: 46.18%;
+  margin-top: 170px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-left .circle-content .circle-outer:nth-of-type(3) {
+  right: 0;
+  top: 0;
+  margin-right: 0%;
+  margin-top: 170px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right {
+  width: 61.75%;
+  float: left;
+  padding-left: 100px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .text-group {
+  margin-bottom: 20px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .text-group .per-left-inner {
+  width: 27.55%;
+  float: left;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .text-group .per-left-inner p {
+  color: #FD5E08;
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: block;
+  width: 130px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .text-group .per-right-inner {
+  float: left;
+  width: 72.45%;
+  display: block;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .text-group .per-right-inner p {
+  color: #3A2628;
+  font-size: 20px;
+  font-weight: 400;
+  display: block;
+  width: 80%;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .text-group:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .arrow-btn-box {
+  padding-right: 50px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .arrow-btn-box .arrow-down {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  padding-left: 30px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .arrow-btn-box .arrow-down img {
+  width: 24px;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .arrow-btn-box .ap-btn {
+  width: 404px;
+  height: 80px;
+  background-color: #FB6135;
+  margin: 0 auto;
+}
+.ap-online-propaganda .ap-online-propaganda-content .row .per-right .text-box .text .arrow-btn-box .ap-btn a {
+  color: #F9F9F9;
+  font-size: 24px;
+  font-weight: 400;
+  display: block;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+  padding: ;
+}
+/* 2.线上宣传结束 */
+/* 3.线下推广开始 */
+.ap-offline-promotion {
+  background-color: #f9f9f9;
+  min-height: 700px;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 {
+  width: 14.2857%;
+  overflow: hidden;
+  float: left;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box {
+  width: 99%;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item .pic {
+  width: 100%;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item .pic img {
+  width: 120%;
+  height: 400px;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item .text-box {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item .text-box .text {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  width: 100%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item .text-box .text h2 {
+  color: #f9f9f9;
+  font-size: 26px;
+  text-align: center;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item .text-box .text p {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 5px;
+}
+.ap-offline-promotion .ap-offline-promotion-content .per14 .item-box .item:hover .pic img {
+  width: 150%;
+  margin-left: -15%;
+  height: 500px;
+  margin-top: -10%;
+}
+/* 3.线下推广结束 */
+/* 活动推广结束 */

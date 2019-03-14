@@ -1,0 +1,150 @@
+/*日常宣教活动开始*/
+/*2.应用场景开始*/
+.missionary-app-scenario .missionary-app-scenario-content .row {
+  margin-bottom: 98px;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 {
+  margin-bottom: 40px;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box {
+  display: inline-block;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item {
+  width: 370px;
+  border: 1px solid #DFDFDF;
+  min-height: 150px;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item .row-inner .per-left-inner {
+  float: left;
+  width: 151px;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item .row-inner .per-left-inner .pic {
+  text-align: right;
+  position: relative;
+  min-height: 150px;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item .row-inner .per-left-inner .pic img {
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item .row-inner .per-right-inner {
+  float: left;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item .row-inner .per-right-inner .text {
+  min-height: 150px;
+  position: relative;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33 .item-box .item .row-inner .per-right-inner .text p {
+  width: 120px;
+  position: absolute;
+  left: 0;
+  margin-left: 28px;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  font-size: 20px;
+  color: #3A2628;
+  text-align: left;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33:nth-of-type(3n+2) {
+  text-align: center;
+}
+.missionary-app-scenario .missionary-app-scenario-content .row .per33:nth-of-type(3n) {
+  text-align: right;
+}
+/*2.应用场景结束*/
+/*3.案例展示开始*/
+.missionary-case-show {
+  background-color: #F9F9F9;
+  padding-top: 56px;
+  padding-bottom: 56px;
+}
+.missionary-case-show .content .row {
+  border: 1px solid #DFDFDF;
+  min-height: 326px;
+  margin-bottom: 72px;
+}
+.missionary-case-show .content .row .per-text {
+  float: left;
+  width: 54.46%;
+}
+.missionary-case-show .content .row .per-text .text-box {
+  position: relative;
+  min-height: 326px;
+}
+.missionary-case-show .content .row .per-text .text-box .text {
+  width: 80%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.missionary-case-show .content .row .per-text .text-box .text h2 {
+  font-size: 22px;
+  color: #545454;
+  font-weight: bold;
+  margin-bottom: 34px;
+  text-align: center;
+}
+.missionary-case-show .content .row .per-text .text-box .text p {
+  color: #666666;
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+.missionary-case-show .content .row .per-pic {
+  position: relative;
+  min-height: 328px;
+  float: left;
+  width: 45.54%;
+  transition: all 1s;
+}
+.missionary-case-show .content .row .per-pic .pic {
+  min-height: 328px;
+}
+.missionary-case-show .content .row .per-pic .pic img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.missionary-case-show .content .row .per-pic .qrcode-box {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(43, 43, 43, 0.9);
+  top: 0;
+  left: 0;
+  display: none;
+  transition: all 1s;
+}
+.missionary-case-show .content .row .per-pic .qrcode-box .qrcode h2 {
+  font-size: 26px;
+  color: #FFFEFE;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 36px;
+}
+.missionary-case-show .content .row .per-pic .qrcode-box .qrcode .pic-inner {
+  width: 30%;
+  margin: 0 auto;
+}
+.missionary-case-show .content .row .per-pic .qrcode-box .qrcode .pic-inner img {
+  width: 100%;
+  display: inline-block;
+}
+.missionary-case-show .content .row .per-pic .qrcode-box .qrcode p {
+  font-size: 14px;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 13px;
+}
+.missionary-case-show .content .row .per-pic:hover .qrcode-box {
+  display: block;
+}
+/*3.案例展示结束*/
+/*日常宣教活动结束*/

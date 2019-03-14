@@ -1,0 +1,95 @@
+.aboutus.contactus.joinus {
+  /*侧边栏开始*/
+  padding-bottom: 36px;
+  /*侧边栏结束*/
+  /*内容区开始*/
+  /*内容区结束*/
+}
+.aboutus.contactus.joinus .per-left .sidebar .nav-menus .nav-box ul li a.active.sixth:before {
+  background: url('../images/aboutus-ju-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus.contactus.joinus .per-right {
+  width: 82.25%;
+  padding-left: 60px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content {
+  padding: 15px 20px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content h2 {
+  font-size: 30px;
+  margin-top: 26px;
+  margin-bottom: 50px;
+  font-weight: 400;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content div.company-intro {
+  border: 1px solid #DFDFDF;
+  padding: 5px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content div.company-intro img {
+  width: 100%;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position {
+  margin-top: 19px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row {
+  margin-bottom: 23px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 {
+  width: 48.76%;
+  float: left;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box {
+  padding: 20px;
+  border: 1px solid #DFDFDF;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item {
+  position: relative;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item .text {
+  height: 117px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item .text h2 {
+  font-size: 18px;
+  color: #5F5858;
+  margin-top: 0;
+  margin-bottom: 13px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item .text p {
+  font-size: 14px;
+  color: #AEA9A9;
+  margin-bottom: 0;
+  text-indent: 0;
+  width: 90%;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item .position-meta span {
+  font-size: 14px;
+  color: #AEA9A9;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item .position-meta span.person-num {
+  margin-right: 16px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50 .company-position-box .company-position-item a.btn {
+  position: absolute;
+  right: 0;
+  bottom: 0px;
+  display: block;
+  width: 103px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #F64937;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .row .per50:nth-of-type(1) {
+  margin-right: 2.48%;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .btn {
+  margin-top: 43px;
+  text-align: center;
+}
+.aboutus.contactus.joinus .per-right .main-content .text-content .company-position .btn a {
+  color: #F85948;
+  font-size: 20px;
+}

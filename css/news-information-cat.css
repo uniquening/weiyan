@@ -1,0 +1,53 @@
+.news-infor .per-right .main-content .text-content .row {
+  height: 142px;
+}
+.news-infor .per-right .main-content .text-content .row .per-left-inner {
+  float: left;
+  height: 100%;
+  width: 27%;
+}
+.news-infor .per-right .main-content .text-content .row .per-left-inner .pic {
+  height: 100%;
+  width: 100%;
+  border: 1px solid #DFDFDF;
+  padding: 10px;
+}
+.news-infor .per-right .main-content .text-content .row .per-left-inner .pic img {
+  width: 100%;
+  height: 100%;
+}
+.news-infor .per-right .main-content .text-content .row .per-right-inner {
+  height: 100%;
+  float: left;
+  width: 73%;
+  padding-left: 15px;
+  position: relative;
+}
+.news-infor .per-right .main-content .text-content .row .per-right-inner .text {
+  padding-top: 15px;
+}
+.news-infor .per-right .main-content .text-content .row .per-right-inner .text h2 {
+  font-size: 18px;
+  color: #3A2628;
+  font-weight: 400;
+  margin-bottom: 18px;
+}
+.news-infor .per-right .main-content .text-content .row .per-right-inner .text h2:hover {
+  color: #F64937;
+}
+.news-infor .per-right .main-content .text-content .row .per-right-inner .text p {
+  font-size: 14px;
+  color: #898787;
+  text-indent: 0;
+  width: 96.5%;
+}
+.news-infor .per-right .main-content .text-content .row .per-right-inner .meta-data {
+  text-align: right;
+  position: absolute;
+  right: 30px;
+  bottom: 10px;
+  font-size: 14px;
+}
+.news-infor .per-right .main-content .text-content .row:hover .per-right-inner {
+  background-color: #F6F6F6;
+}

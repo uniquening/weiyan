@@ -1,0 +1,88 @@
+/*微信投票开始*/
+/*1.海报制作开始*/
+.wechat-vote-poster .wrapper .text-box .container .text {
+  padding-bottom: 33px;
+}
+.wechat-vote-poster .wrapper .text-box .container .text h1,
+.wechat-vote-poster .wrapper .text-box .container .text p {
+  color: #FEFEFE;
+}
+.wechat-vote-poster .wrapper .text-box .container .text h1 {
+  font-size: 32px;
+  font-weight: bolder;
+}
+.wechat-vote-poster .wrapper .text-box .container .text p {
+  font-size: 16px;
+  margin-top: 25px;
+  margin-left: 2px;
+  width: 482px;
+  line-height: 1.7;
+}
+.wechat-vote-poster .wrapper .text-box .container a {
+  text-decoration: none;
+  width: 12.104167%;
+  color: #F44A38;
+  top: 57.34%;
+  display: inline-block;
+  text-align: center;
+  font-size: 0px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.wechat-vote-poster .wrapper .text-box .container a img {
+  width: 100%;
+}
+/*1.海报制作结束*/
+/*2.产品介绍开始*/
+/*2.产品介绍结束*/
+/*3.我们的优势开始*/
+.wechat-our-advant {
+  height: 620px;
+  background-color: #f9f9f9;
+}
+.wechat-our-advant .wechat-our-advant-content img {
+  width: 100%;
+}
+/*3.我们的优势结束*/
+/*4.应用场景开始*/
+.wechat-app-scenario {
+  padding-bottom: 124px;
+}
+.wechat-app-scenario .wechat-app-scenario-content {
+  width: 94.83%;
+  margin: 0 auto;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 {
+  height: 516px;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 .wechat-app-scenario-box {
+  position: relative;
+  height: 530px;
+  width: 100%;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 .wechat-app-scenario-box .wechat-app-scenario-item .pic {
+  text-align: center;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 .wechat-app-scenario-box .wechat-app-scenario-item .pic img {
+  width: 88%;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 .wechat-app-scenario-box .wechat-app-scenario-item .text {
+  padding: 0 13px;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 .wechat-app-scenario-box .wechat-app-scenario-item .text h2 {
+  text-align: center;
+  font-size: 18px;
+  color: #3A2628;
+  margin-top: 22px;
+  margin-bottom: 18px;
+  font-weight: 400;
+}
+.wechat-app-scenario .wechat-app-scenario-content .per25 .wechat-app-scenario-box .wechat-app-scenario-item .text p {
+  font-size: 14px;
+  color: #858585;
+}
+/*4.应用场景结束*/
+/*5.案例展示开始*/
+/*5.案例展示结束*/
+/*微信投票结束*/

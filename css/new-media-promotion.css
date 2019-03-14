@@ -1,0 +1,95 @@
+/*新媒体推广开始*/
+/*2.推广类型开始*/
+.nmpm-type {
+  background-color: #f9f9f9;
+  min-height: 700px;
+}
+.nmpm-type .nmpm-type-content .row .pic {
+  text-align: center;
+}
+/*2.推广类型结束*/
+/*3.全网资源开始*/
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 {
+  margin-bottom: 55px;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box {
+  width: 82.5%;
+  min-height: 370px;
+  border: 1px solid #dfdfdf;
+  margin: 0 auto;
+  padding-top: 86px;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box .item .icon {
+  width: 25%;
+  margin: 0 auto;
+  text-align: center;
+  min-height: 100px;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box .item .icon img {
+  width: 100%;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box .item .text {
+  margin: 0 auto;
+  width: 76.364%;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box .item .text h2 {
+  font-size: 22px;
+  color: #3A2628;
+  font-weight: 400;
+  margin-bottom: 21px;
+  text-align: center;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box .item .text p {
+  font-size: 18px;
+  color: #959595;
+  text-algin: center;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33 .item-box:hover {
+  box-shadow: 0px 0px 43px 0px rgba(115, 115, 115, 0.16);
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33:last-of-type .item-box {
+  background-color: rgba(249, 249, 249, 0.5);
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33:last-of-type .item-box .item .icon {
+  width: 33%;
+  min-height: 121px;
+  margin-bottom: 30px;
+}
+.nmpm-whole-net-resources .nmp-whole-net-resources-content .per33:last-of-type .item-box .item .text h2 {
+  font-size: 22px;
+  color: #ddd;
+}
+/*3.全网资源结束*/
+/*4.案例展示开始*/
+.nmpm-case-show {
+  min-height: 768px;
+  background-color: #f9f9f9;
+}
+.nmpm-case-show .nmpm-case-show-title {
+  min-height: 230px;
+  width: 64.58%;
+  margin: 0 auto;
+  padding-top: 61px;
+}
+.nmpm-case-show .nmpm-case-show-title h2 {
+  color: #3A2628;
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 23px;
+  text-align: center;
+}
+.nmpm-case-show .nmpm-case-show-title p {
+  color: #6D6D6D;
+  font-size: 14px;
+}
+.nmpm-case-show .nmpm-case-show-content .pic {
+  width: 59.83%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #dfdfdf;
+}
+.nmpm-case-show .nmpm-case-show-content .pic img {
+  width: 100%;
+}
+/*4.案例展示结束*/
+/*新媒体推广结束*/

@@ -1,0 +1,559 @@
+/*知识答题开始*/
+@keyframes slidetoleft1 {
+  0% {
+    right: -25%;
+    width: 0;
+    height: 0;
+  }
+  50% {
+    width: 162px;
+    height: 319px;
+    right: 0;
+  }
+  100% {
+    width: 162px;
+    height: 319px;
+    right: 0;
+  }
+}
+@keyframes slidetoleft2 {
+  0% {
+    right: -25%;
+    width: 81px;
+    height: 160px;
+    opacity: 0;
+  }
+  30% {
+    right: 0;
+    width: 162px;
+    height: 319px;
+    opacity: 1;
+  }
+  100% {
+    right: 0;
+    width: 162px;
+    height: 319px;
+    opacity: 1;
+  }
+}
+@keyframes slidetoleft3 {
+  0% {
+    right: 0;
+    width: 162px;
+    height: 319px;
+  }
+  30% {
+    right: 27%;
+    width: 207px;
+    height: 420px;
+  }
+  100% {
+    right: 27%;
+    width: 207px;
+    height: 420px;
+  }
+}
+@keyframes slidetoleft4 {
+  0% {
+    right: 27%;
+    width: 207px;
+    height: 420px;
+  }
+  30% {
+    width: 241px;
+    height: 469px;
+    right: 60%;
+  }
+  100% {
+    width: 241px;
+    height: 469px;
+    right: 60%;
+  }
+}
+@keyframes slidetoleft5 {
+  0% {
+    width: 241px;
+    height: 469px;
+    right: 60%;
+  }
+  30% {
+    width: 241px;
+    height: 469px;
+    right: 60%;
+    opacity: 0;
+  }
+  100% {
+    width: 241px;
+    height: 469px;
+    right: 60%;
+    opacity: 0;
+  }
+}
+.wechat-ka-product-intro .wechat-ka-product-content {
+  margin: 0 5.917%;
+  padding-bottom: 71px;
+}
+.wechat-ka-product-intro .wechat-ka-product-content .row {
+  border: 1px solid #DFDFDF;
+}
+.wechat-ka-product-intro .wechat-ka-product-content .row .per50 {
+  height: 283px;
+}
+.wechat-ka-product-intro .wechat-ka-product-content .row .per-left {
+  background-color: #F5F5F5;
+  position: relative;
+}
+.wechat-ka-product-intro .wechat-ka-product-content .row .per-left img {
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.wechat-ka-product-intro .wechat-ka-product-content .row .per-right {
+  position: relative;
+}
+.wechat-ka-product-intro .wechat-ka-product-content .row .per-right p {
+  width: 82.189%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  display: inline-block;
+  text-indent: 2em;
+  font-size: 16px;
+  font-weight: 400;
+  color: #3A2628;
+}
+/*1.海报制作开始*/
+.ka-poster .wrapper .text-box .container .text {
+  padding-bottom: 33px;
+}
+.ka-poster .wrapper .text-box .container .text h1,
+.ka-poster .wrapper .text-box .container .text p {
+  color: #FEFEFE;
+}
+.ka-poster .wrapper .text-box .container .text h1 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.ka-poster .wrapper .text-box .container .text p {
+  font-size: 15px;
+  margin-top: 25px;
+  margin-left: 2px;
+  width: 482px;
+  line-height: 1.7;
+}
+.ka-poster .wrapper .text-box .container a {
+  text-decoration: none;
+  width: 12.104167%;
+  color: #F44A38;
+  top: 57.34%;
+  display: inline-block;
+  text-align: center;
+  font-size: 0px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.ka-poster .wrapper .text-box .container a img {
+  width: 100%;
+}
+/*1.海报制作结束*/
+/*2.产品介绍开始*/
+.ka-product-intro .ka-product-content {
+  margin: 0 5.917%;
+  padding-bottom: 71px;
+}
+.ka-product-intro .ka-product-content .row {
+  border: 1px solid #DFDFDF;
+}
+.ka-product-intro .ka-product-content .row .per50 {
+  height: 283px;
+}
+.ka-product-intro .ka-product-content .row .per-left {
+  background-color: #F5F5F5;
+  position: relative;
+}
+.ka-product-intro .ka-product-content .row .per-left img {
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.ka-product-intro .ka-product-content .row .per-right {
+  position: relative;
+}
+.ka-product-intro .ka-product-content .row .per-right p {
+  width: 82.189%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  display: inline-block;
+  text-indent: 2em;
+  font-size: 16px;
+  font-weight: 400;
+  color: #3A2628;
+}
+/*2.产品介绍结束*/
+/*3.呈现形式开始*/
+.ka-present-form {
+  background-color: #f9f9f9;
+}
+.ka-present-form .ka-product-content .per-left {
+  width: 40%;
+  float: left;
+}
+.ka-present-form .ka-product-content .per-left .ka-product-box {
+  position: relative;
+  height: 590px;
+}
+.ka-present-form .ka-product-content .per-left .ka-product-box .ka-product-item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  width: 71.146%;
+}
+.ka-present-form .ka-product-content .per-left .ka-product-box .ka-product-item h2 {
+  font-size: 26px;
+  color: #3A2628;
+  margin-bottom: 38px;
+  font-weight: 400;
+}
+.ka-present-form .ka-product-content .per-left .ka-product-box .ka-product-item p {
+  color: #3A2628;
+  font-size: 16px;
+  text-indent: 2em;
+}
+.ka-present-form .ka-product-content .per-right {
+  width: 60%;
+  float: left;
+  position: relative;
+  height: 590px;
+  overflow: hidden;
+}
+.ka-present-form .ka-product-content .per-right img {
+  position: absolute;
+  width: 241px;
+  height: 469px;
+  top: 50%;
+  right: 60%;
+  transform: translateY(-50%);
+  -ms-transform: translate(-50%, -50%);
+  animation: slidetoleft 2s;
+  transition: width 2s, height 2s;
+}
+.ka-present-form .ka-product-content .per-right img.pic2 {
+  right: 0;
+  width: 162px;
+  height: 319px;
+  animation: slidetoleft2 4s;
+  animation-iteration-count: infinite;
+}
+.ka-present-form .ka-product-content .per-right img.pic3 {
+  right: 27%;
+  width: 207px;
+  height: 420px;
+  animation: slidetoleft3 4s;
+  animation-iteration-count: infinite;
+}
+.ka-present-form .ka-product-content .per-right img.pic4 {
+  right: 60%;
+  width: 241px;
+  height: 469px;
+  animation: slidetoleft4 4s;
+  animation-iteration-count: infinite;
+}
+.ka-present-form .ka-product-content .per-right img.pic5 {
+  right: 80%;
+  width: 241px;
+  height: 469px;
+  animation: slidetoleft5 4s;
+  animation-iteration-count: infinite;
+}
+@media screen and (max-width: 1280px) {
+  @keyframes slidetoleft1 {
+    0% {
+      right: -25%;
+      width: 0;
+      height: 0;
+    }
+    50% {
+      width: 130px;
+      height: 255px;
+      right: 0;
+    }
+    100% {
+      width: 130px;
+      height: 255px;
+      right: 0;
+    }
+  }
+  @keyframes slidetoleft2 {
+    0% {
+      right: -25%;
+      width: 81px;
+      height: 160px;
+      opacity: 0;
+    }
+    30% {
+      right: 0;
+      width: 130px;
+      height: 255px;
+      opacity: 1;
+    }
+    100% {
+      right: 0;
+      width: 130px;
+      height: 255px;
+      opacity: 1;
+    }
+  }
+  @keyframes slidetoleft3 {
+    0% {
+      right: 0;
+      width: 130px;
+      height: 255px;
+    }
+    30% {
+      right: 27%;
+      width: 166px;
+      height: 336px;
+    }
+    100% {
+      right: 27%;
+      width: 166px;
+      height: 336px;
+    }
+  }
+  @keyframes slidetoleft4 {
+    0% {
+      right: 27%;
+      width: 166px;
+      height: 336px;
+    }
+    30% {
+      width: 192px;
+      height: 375px;
+      right: 60%;
+    }
+    100% {
+      width: 192px;
+      height: 375px;
+      right: 60%;
+    }
+  }
+  @keyframes slidetoleft5 {
+    0% {
+      width: 192px;
+      height: 375px;
+      right: 60%;
+    }
+    30% {
+      width: 192px;
+      height: 375px;
+      right: 60%;
+      opacity: 0;
+    }
+    100% {
+      width: 192px;
+      height: 375px;
+      right: 60%;
+      opacity: 0;
+    }
+  }
+  .ka-present-form .ka-product-content .per-right img {
+    position: absolute;
+    width: 241px;
+    height: 469px;
+  }
+  .ka-present-form .ka-product-content .per-right img.pic2 {
+    right: 0;
+    width: 133px;
+    height: 255px;
+  }
+  .ka-present-form .ka-product-content .per-right img.pic3 {
+    right: 27%;
+    width: 133px;
+    height: 255px;
+  }
+  .ka-present-form .ka-product-content .per-right img.pic4 {
+    right: 60%;
+    width: 166px;
+    height: 336px;
+  }
+  .ka-present-form .ka-product-content .per-right img.pic5 {
+    right: 80%;
+    width: 192px;
+    height: 375px;
+  }
+}
+/*3.呈现形式结束*/
+/*4.我们的优势开始*/
+.ka-ld-our-advant {
+  padding-bottom: 39px;
+}
+.ka-ld-our-advant .ka-vp-pg-content {
+  width: 94.25%;
+  margin: 0 auto;
+}
+.ka-ld-our-advant .ka-vp-pg-content .per33 {
+  margin-bottom: 67px;
+}
+.ka-ld-our-advant .ka-vp-pg-content .per33 .ka-our-advant-box {
+  position: relative;
+  height: 291px;
+  width: 291px;
+  margin: 0 auto;
+  border: 1px solid #E5E5E5;
+}
+.ka-ld-our-advant .ka-vp-pg-content .per33 .ka-our-advant-box .icon-head {
+  width: 70.1031%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.ka-ld-our-advant .ka-vp-pg-content .per33 .ka-our-advant-box .icon-head h3 {
+  text-align: left;
+  font-size: 16px;
+  color: #3A2628;
+  margin-top: 15px;
+}
+.ka-ld-our-advant .ka-vp-pg-content .per33 .ka-our-advant-box:hover {
+  box-shadow: -5px 0px 50px 4px #E5E5E5;
+}
+.ka-ld-our-advant .ka-vp-pg-content .per33:hover {
+  box-shadow: none;
+}
+/*4.我们的优势结束*/
+/*5.应用场景开始*/
+.ka-app-scenario {
+  background-color: #f9f9f9;
+  padding-bottom: 40px;
+}
+.ka-app-scenario .ka-app-scenario-content .per25 .ka-app-item {
+  background-color: #fff;
+  width: 96.66667%;
+}
+.ka-app-scenario .ka-app-scenario-content .per25 .ka-app-item .pic img {
+  width: 100%;
+}
+.ka-app-scenario .ka-app-scenario-content .per25 .ka-app-item .text {
+  height: 134px;
+  padding: 0 18px;
+}
+.ka-app-scenario .ka-app-scenario-content .per25 .ka-app-item .text h2 {
+  font-size: 18px;
+  color: #3A2628;
+  font-weight: 400;
+  margin-top: 19px;
+  margin-bottom: 15px;
+}
+.ka-app-scenario .ka-app-scenario-content .per25 .ka-app-item .text p {
+  font-size: 16px;
+  color: #3A2628;
+}
+/*5.应用场景结束*/
+/*6.积极影响开始*/
+.ka-positive-influence {
+  padding-top: 199px;
+  padding-bottom: 86px;
+}
+.ka-positive-influence .ka-positive-content .text .per-left-inner,
+.ka-positive-influence .ka-positive-content .text .per-right-inner {
+  float: left;
+}
+.ka-positive-influence .ka-positive-content .text .per-left-inner {
+  padding-right: 10px;
+}
+.ka-positive-influence .ka-positive-content .text .per-left-inner h2 {
+  font-size: 26px;
+  color: #F76E57;
+  font-size: 400;
+}
+.ka-positive-influence .ka-positive-content .text .per-right-inner {
+  padding-top: 15px;
+}
+.ka-positive-influence .ka-positive-content .text .per-right-inner p {
+  font-size: 18px;
+  color: #6D6263;
+  width: 45px;
+  width: 282px;
+}
+.ka-positive-influence .ka-positive-content .text1 {
+  margin-bottom: 26px;
+}
+.ka-positive-influence .ka-positive-content .pic {
+  text-align: center;
+}
+.ka-positive-influence .ka-positive-content .pic img {
+  width: 100%;
+}
+/*6.积极影响结束*/
+/*7.案例展示开始*/
+.draw-ka-wechat-case-show {
+  background-color: #f9f9f9;
+  padding-bottom: 80px;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box {
+  height: 620px;
+  position: relative;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item {
+  width: 322px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .pic {
+  position: relative;
+  height: 439px;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .pic img {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  width: 93.7888%;
+  height: auto;
+  transition: all 1s;
+  -ms-transition: all 0.8s;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .pic img:hover {
+  width: 100%;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item h2,
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .icon-text-box {
+  padding: 0 15px;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item h2 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 32px;
+  margin-bottom: 27px;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .icon-text-box .icon-item {
+  margin-bottom: 14px;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .icon-text-box .icon-item span {
+  font-size: 14px;
+  color: #6D6263;
+}
+.draw-ka-wechat-case-show .ka-wechat-case-show-content .per33 .ka-wechat-case-show-box .ka-wechat-case-show-item .icon-text-box .icon-item span.icon {
+  position: relative;
+  top: 4px;
+  margin-right: 5px;
+}
+/*7.案例展示结束*/
+/*知识答题结束*/

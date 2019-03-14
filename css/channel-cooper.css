@@ -1,0 +1,200 @@
+/*渠道合作开始*/
+/*1.海报制作开始*/
+.cc-poster .wrapper .pic img {
+  width: 100%;
+  height: auto;
+}
+.cc-poster .wrapper .text-box .container .text {
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cc-poster .wrapper .text-box .container .text h1,
+.cc-poster .wrapper .text-box .container .text p {
+  color: #FEFEFE;
+}
+.cc-poster .wrapper .text-box .container .text h1 {
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: 5px;
+}
+.cc-poster .wrapper .text-box .container .text p {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 2px;
+  width: 45%;
+  line-height: 1.7;
+}
+.cc-poster .wrapper .text-box .container a {
+  text-decoration: none;
+  width: 15.104167%;
+  color: #F44A38;
+  top: 57.34%;
+  display: inline-block;
+  text-align: center;
+  font-size: 0px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.cc-poster .wrapper .text-box .container a img {
+  width: 100%;
+}
+/*1.海报制作结束*/
+/*2.选择我们的理由开始*/
+.choose-us-reason .ch-us-re-content {
+  padding: 0 100px;
+}
+.choose-us-reason .ch-us-re-content .per33 {
+  text-align: center;
+}
+.choose-us-reason .ch-us-re-content .per33 .icon {
+  text-align: center;
+}
+.choose-us-reason .ch-us-re-content .per33 .icon .img {
+  width: 31.45%;
+  height: 92px;
+  display: inline-block;
+  background-size: 100% 100%;
+}
+.choose-us-reason .ch-us-re-content .per33 .icon .img1 {
+  background: url(../images/ch-us-re-black-icon1.png) no-repeat;
+}
+.choose-us-reason .ch-us-re-content .per33 .icon .img2 {
+  background: url(../images/ch-us-re-black-icon2.png) no-repeat;
+}
+.choose-us-reason .ch-us-re-content .per33 .icon .img3 {
+  background: url(../images/ch-us-re-black-icon3.png) no-repeat;
+}
+.choose-us-reason .ch-us-re-content .per33 .text {
+  margin-top: 37px;
+  margin-bottom: 38px;
+  display: inline-block;
+  width: 49%;
+}
+.choose-us-reason .ch-us-re-content .per33 .text h2 {
+  color: #3A2628;
+  font-size: 20px;
+  margin-bottom: 21px;
+}
+.choose-us-reason .ch-us-re-content .per33 .text p {
+  color: #ADADAD;
+  font-size: 14px;
+  width: ;
+}
+.choose-us-reason .ch-us-re-content .per33:hover .icon .img1 {
+  background: url(../images/ch-us-re-red-icon1.png) no-repeat;
+}
+.choose-us-reason .ch-us-re-content .per33:hover .icon .img2 {
+  background: url(../images/ch-us-re-red-icon2.png) no-repeat;
+}
+.choose-us-reason .ch-us-re-content .per33:hover .icon .img3 {
+  background: url(../images/ch-us-re-red-icon3.png) no-repeat;
+}
+.choose-us-reason .ch-us-re-content .per33:hover .text h2 {
+  color: #F64937;
+}
+/*2.选择我们的理由结束*/
+/*3.微盐总部支持开始*/
+.headquarters-support {
+  background-color: #F9F9F9;
+}
+.headquarters-support .headquarters-support-content .per25 {
+  height: 448px;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box {
+  height: 100%;
+  background: url(../images/head-support-bg1.png) no-repeat;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item {
+  text-align: center;
+  height: 100%;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item .icon {
+  padding-top: 100px;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item .text {
+  margin-top: 30px;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  width: 59%;
+  display: inline-block;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item .text h2,
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item .text p {
+  color: #FFFFFF;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item .text h2 {
+  font-size: 22px;
+  margin-bottom: 30px;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box .head-support-item .text p {
+  font-size: 15px;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box1 {
+  background: url(../images/head-support-bg1.png) no-repeat;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box2 {
+  background: url(../images/head-support-bg2.png) no-repeat;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box3 {
+  background: url(../images/head-support-bg3.png) no-repeat;
+}
+.headquarters-support .headquarters-support-content .per25 .head-support-box4 {
+  background: url(../images/head-support-bg4.png) no-repeat;
+}
+.headquarters-support .headquarters-support-content .per25:hover .head-support-box .head-support-item {
+  background-color: rgba(233, 26, 38, 0.5);
+}
+.headquarters-support .headquarters-support-content .per25:hover .head-support-box .head-support-item .icon {
+  padding-top: 80px;
+}
+.headquarters-support .headquarters-support-content .per25:hover .head-support-box .head-support-item .text {
+  margin-top: 20px;
+}
+.headquarters-support .headquarters-support-content .per25:hover .head-support-box .head-support-item .text h2 {
+  margin-bottom: 25px;
+}
+/*3.微盐总部支持结束*/
+/*4.加盟微盐步骤开始*/
+.franchsing-steps .franchsing-steps-content {
+  padding-bottom: 149px;
+}
+.franchsing-steps .franchsing-steps-content .per25 {
+  height: 110px;
+}
+.franchsing-steps .franchsing-steps-content .per25 .fran-step-box {
+  width: 90.6667%;
+  height: 110px;
+  border: 1px solid #AFAFAF;
+  transition: all 0.3s;
+  -ms-transition: all 0.3s;
+}
+.franchsing-steps .franchsing-steps-content .per25 .fran-step-box .fran-step-item {
+  width: 100%;
+  height: 110px;
+}
+.franchsing-steps .franchsing-steps-content .per25 .fran-step-box .fran-step-item h2 {
+  text-align: center;
+  height: 110px;
+  line-height: 110px;
+  color: #3A2628;
+  font-size: 24px;
+  font-weight: 400;
+  transition: all 0.3s;
+  -ms-transition: all 0.3s;
+}
+.franchsing-steps .franchsing-steps-content .per25 .fran-step-box:hover {
+  background: url(../images/fran-step-bg.png) no-repeat;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1);
+  background-size: cover;
+  border: none;
+}
+.franchsing-steps .franchsing-steps-content .per25 .fran-step-box:hover .fran-step-item h2 {
+  color: #fff;
+}
+/*4.加盟微盐步骤结束*/
+/*渠道合作结束*/

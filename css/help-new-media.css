@@ -1,0 +1,196 @@
+/*助力新媒体运营开始*/
+.hnm-service-content-title .text h2 {
+  color: #3a2628;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+.hnm-service-content-title .text p {
+  font-size: 14px;
+  color: #6d6d6d;
+  font-weight: 300;
+  text-align: center;
+  width: 71.1666%;
+  margin: 0 auto;
+}
+/*2.政务服务介绍开始*/
+.hnm-service-intro .ecr-product-intro-content {
+  height: 283px;
+}
+.hnm-service-intro .ecr-product-intro-content .row {
+  border: 1px solid #C5C5C5;
+}
+.hnm-service-intro .ecr-product-intro-content .row .per-left {
+  height: 283px;
+}
+.hnm-service-intro .ecr-product-intro-content .row .per-left .item {
+  position: absolute;
+  padding: 29px 29px 29px 29px;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.hnm-service-intro .ecr-product-intro-content .row .per-left .item p {
+  font-size: 18px;
+  position: static;
+  transform: none;
+  width: 100%;
+  color: #636262;
+}
+.hnm-service-intro .ecr-product-intro-content .row .per-right {
+  height: 283px;
+}
+/*2.政务服务介绍结束*/
+/*3.服务内容开始*/
+.hnm-service-content {
+  background-color: #f9f9f9;
+  min-height: 1032px;
+  padding-top: 90px;
+  padding-bottom: 140px;
+}
+.hnm-service-content .hnm-service-content-content {
+  margin-top: 108px;
+}
+.hnm-service-content .hnm-service-content-content .pic {
+  text-align: center;
+}
+.hnm-service-content .hnm-service-content-content .pic img {
+  position: relative;
+  left: 30px;
+  width: 100%;
+}
+/*3.服务内容结束*/
+/*4.服务互动开始*/
+.hnm-service-interaction {
+  padding-top: 65px;
+  min-height: 1544px;
+  position: relative;
+}
+.hnm-service-interaction .hnm-service-interaction-title {
+  margin-bottom: 86px;
+}
+.hnm-service-interaction .hnm-service-interaction-title .text h2 {
+  color: #3a2628;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+.hnm-service-interaction .hnm-service-interaction-title .text p {
+  font-size: 14px;
+  color: #6d6d6d;
+  font-weight: 300;
+  text-align: center;
+  width: 71.1666%;
+  margin: 0 auto;
+}
+.hnm-service-interaction .hnm-service-interaction-content .menu {
+  position: absolute;
+}
+.hnm-service-interaction .hnm-service-interaction-content .menu ul {
+  border: 1px solid #dfdfdf;
+  display: inline-block;
+}
+.hnm-service-interaction .hnm-service-interaction-content .menu ul li {
+  width: 155px;
+  height: 43px;
+  border-bottom: 1px solid #dfdfdf;
+  font-size: 16px;
+  color: #5B5A5A;
+  line-height: 43px;
+  text-align: center;
+  position: relative;
+}
+.hnm-service-interaction .hnm-service-interaction-content .menu ul li.menu-active,
+.hnm-service-interaction .hnm-service-interaction-content .menu ul li:hover {
+  background-color: #FB5B46;
+  color: #fff;
+  cursor: pointer;
+}
+.hnm-service-interaction .hnm-service-interaction-content .menu ul li.menu-active:after {
+  content: '';
+  display: block;
+  border-width: 7px 13px;
+  border-color: transparent transparent transparent #FF8878;
+  border-style: solid;
+  position: absolute;
+  left: 105%;
+  top: 10px;
+}
+.hnm-service-interaction .hnm-service-interaction-content .menu ul li:first-of-type {
+  border-top: 1px solid #dfdfdf;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap {
+  position: relative;
+  width: 100%;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-box {
+  width: 100%;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-box .slider-pic {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) scale(1);
+  top: 30px;
+  z-index: 100;
+  border: 1px solid #000;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-box .slider-pic:first-of-type {
+  transform: translateX(-160%) scale(0.5817);
+  z-index: 96;
+  opacity: 0.1;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-box .slider-pic:nth-of-type(2) {
+  transform: translateX(-120%) scale(0.7163);
+  z-index: 98;
+  opacity: 0.4;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-box .slider-pic:nth-of-type(4) {
+  transform: translateX(20%) scale(0.7163);
+  z-index: 98;
+  opacity: 0.4;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-box .slider-pic:nth-of-type(5) {
+  transform: translateX(60%) scale(0.5817);
+  z-index: 96;
+  opacity: 0.1;
+}
+.hnm-service-interaction .hnm-service-interaction-content .slider-wrap .slider-phone-bg {
+  position: relative;
+  z-index: 99;
+  text-align: center;
+  width: 232px;
+  margin: 0 auto;
+}
+.hnm-service-interaction .hnm-service-interaction-section1 {
+  margin-bottom: 140px;
+}
+/*4.服务互动结束*/
+/*5.体制创新开始*/
+.hnm-system-innovation {
+  background-color: #f9f9f9;
+  padding-top: 67px;
+  min-height: 765px;
+}
+.hnm-system-innovation .hnm-service-content-title .text p {
+  padding-bottom: 5px;
+}
+.hnm-system-innovation .hnm-service-content-content {
+  margin-top: 65px;
+}
+.hnm-system-innovation .hnm-service-content-content .pic {
+  text-align: center;
+  max-width: 54.16%;
+  background-color: #fff;
+  padding: 18px 15px;
+  margin: 0 auto;
+}
+.hnm-system-innovation .hnm-service-content-content .pic img {
+  width: 100%;
+}
+/*5.体制创新结束*/
+/*助力新媒体运营结*/

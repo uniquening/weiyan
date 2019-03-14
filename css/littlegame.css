@@ -1,0 +1,132 @@
+/*小游戏开发开始*/
+/*1.海报banner制作开始*/
+/*1.海报banner制作结束*/
+/*2.环保宣传开始*/
+.environmental-publicity .little-game-content {
+  padding: 82px 0 105px;
+}
+.environmental-publicity .little-game-content .per33 .enviro-box .enviro-item {
+  width: 84.25%;
+  display: inline-block;
+  box-shadow: -6px 0px 38px 2px rgba(151, 23, 23, 0.25);
+  padding: 6px 6px 2px 7px;
+}
+.environmental-publicity .little-game-content .per33 .enviro-box .enviro-item img {
+  width: 100%;
+}
+.environmental-publicity .little-game-content .per33 .enviro-box2 {
+  text-align: center;
+}
+.environmental-publicity .little-game-content .per33 .enviro-box3 {
+  text-align: right;
+}
+/*2.环保宣传结束*/
+/*3.政策宣传开始*/
+.lg-policy-propaganda {
+  background-color: #F9F9F9;
+}
+.lg-policy-propaganda .little-game-content {
+  padding: 57px 0 44px;
+}
+.lg-policy-propaganda .little-game-content .policy-propaganda-box {
+  text-align: center;
+}
+/*3.政策宣传结束*/
+/*4.安全知识学习开始*/
+/*4.安全知识学习结束*/
+/*5.城市文明建设开始*/
+.lg-urban-civilization {
+  background-color: #F9F9F9;
+}
+.lg-urban-civilization .little-game-content {
+  padding: 82px 0 105px;
+}
+.lg-urban-civilization .little-game-content .per33 .urban-box .urban-item {
+  width: 81%;
+  display: inline-block;
+  box-shadow: -6px 0px 38px 2px rgba(151, 23, 23, 0.25);
+}
+.lg-urban-civilization .little-game-content .per33 .urban-box .urban-item img {
+  width: 100%;
+}
+.lg-urban-civilization .little-game-content .per33 .urban-box2 {
+  text-align: center;
+}
+.lg-urban-civilization .little-game-content .per33 .urban-box3 {
+  text-align: right;
+}
+/*5.城市文明建设结束*/
+/*6.小游戏开发的优势开始*/
+.lg-dev-advant .little-game-content {
+  padding: 82px 0 105px;
+}
+.lg-dev-advant .little-game-content .per25 {
+  text-align: center;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box {
+  width: 83.337%;
+  display: inline-block;
+  box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+  border-radius: 10px;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item {
+  width: 100%;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic {
+  width: 100%;
+  height: 193px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+  position: relative;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic:hover img {
+  width: 175px;
+  height: 175px;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic1 {
+  background-color: #FF7777;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic2 {
+  background-color: #ECC763;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic3 {
+  background-color: #63C0EC;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .pic4 {
+  background-color: #579AFF;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .text-box {
+  position: relative;
+  height: 198px;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .text-box .text {
+  position: absolute;
+  width: 73.2%;
+  top: 34px;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translate(-50%);
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .text-box .text h2,
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .text-box .text p {
+  text-align: center;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .text-box .text h2 {
+  color: #3A2628;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+.lg-dev-advant .little-game-content .per25 .lg-dev-box .lg-dev-item .text-box .text p {
+  font-size: 15px;
+  color: #adadad;
+}
+/*6.小游戏开发的优势结束*/
+/*小游戏开发结束*/

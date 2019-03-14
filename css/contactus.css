@@ -1,0 +1,59 @@
+.aboutus.contactus {
+  /*侧边栏开始*/
+  /*侧边栏结束*/
+  /*内容区开始*/
+  /*内容区结束*/
+}
+.aboutus.contactus .per-left .sidebar .nav-menus .nav-box ul li a.active.fifth:before {
+  background: url('../images/aboutus-cu-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus.contactus .per-right {
+  width: 82.25%;
+  padding-left: 60px;
+}
+.aboutus.contactus .per-right .main-content {
+  padding-right: 37px;
+}
+.aboutus.contactus .per-right .main-content .title {
+  margin-bottom: 20px;
+}
+.aboutus.contactus .per-right .main-content .title h2 {
+  color: #443838;
+  font-size: 22px;
+  font-weight: 400;
+  height: 67px;
+  line-height: 67px;
+  position: relative;
+}
+.aboutus.contactus .per-right .main-content .text-content {
+  padding: 15px 20px;
+}
+.aboutus.contactus .per-right .main-content .text-content h2,
+.aboutus.contactus .per-right .main-content .text-content p {
+  text-align: center;
+}
+.aboutus.contactus .per-right .main-content .text-content h2 {
+  font-size: 30px;
+  margin-top: 26px;
+  margin-bottom: 50px;
+  font-weight: 400;
+}
+.aboutus.contactus .per-right .main-content .text-content div.company-intro {
+  border: 1px solid #DFDFDF;
+  padding: 5px;
+}
+.aboutus.contactus .per-right .main-content .text-content div.company-intro img {
+  width: 100%;
+}
+.aboutus.contactus .per-right .main-content .text-content p {
+  color: #AEA9A9;
+  margin-bottom: 9px;
+  font-weight: 300;
+  font-size: 16px;
+}
+.aboutus.contactus .per-right .main-content .text-content p img {
+  position: relative;
+  top: 1px;
+  right: 5px;
+}

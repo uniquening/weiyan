@@ -1,0 +1,122 @@
+/*培训打卡系统开始*/
+/*2.我们的优势开始*/
+.tcd-our-advant {
+  padding-bottom: 112px;
+}
+.tcd-our-advant .tcd-our-advant-content .per20 .tcd-our-advant-box {
+  width: 100%;
+  height: 361px;
+  position: relative;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.tcd-our-advant .tcd-our-advant-content .per20 .tcd-our-advant-box .tcd-our-advant-item {
+  padding-top: 123px;
+  padding-bottom: 122px;
+}
+.tcd-our-advant .tcd-our-advant-content .per20 .tcd-our-advant-box .tcd-our-advant-item .pic {
+  text-align: center;
+  margin-bottom: 28px;
+}
+.tcd-our-advant .tcd-our-advant-content .per20 .tcd-our-advant-box .tcd-our-advant-item .pic img {
+  width: 33.333%;
+}
+.tcd-our-advant .tcd-our-advant-content .per20 .tcd-our-advant-box .tcd-our-advant-item .text p {
+  text-align: center;
+  font-size: 16px;
+  color: #828182;
+}
+.tcd-our-advant .tcd-our-advant-content .per20 .tcd-our-advant-box:hover {
+  box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+  -ms-box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+  margin-top: -10px;
+}
+/*2.我们的优势结束 */
+/*3.操作步骤（普通用户）开始*/
+.tcd-operate-steps {
+  background-color: #f9f9f9;
+  padding-bottom: 138px;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item {
+  position: relative;
+  width: 278px;
+  width: 92.666667%;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .pic {
+  width: 100%;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .pic img {
+  width: 100%;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .pic:nth-of-type(2),
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .pic:nth-of-type(3) {
+  text-align: center;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .pic:nth-of-type(4) {
+  text-align: right;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .text {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .text p {
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  font-size: 18px;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item:hover .text {
+  background: rgba(255, 45, 57, 0.5);
+}
+.tcd-operate-steps .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item:hover .text p {
+  margin-top: -10px;
+}
+/*3.操作步骤（普通用户）结束*/
+/*4.操作步骤（管理员）开始*/
+.tcd-operate-steps-admin {
+  background-color: #fff;
+}
+.tcd-operate-steps-admin .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .text p {
+  width: 75%;
+}
+.tcd-operate-steps-admin .tcd-operate-steps-content .per25 .tcd-operate-steps-box .tcd-operate-steps-item .text p.third {
+  text-align: left;
+}
+/*4.操作步骤（管理员）结束*/
+/*5.案例展示-福田警察开始*/
+.tcd-case-show {
+  background-color: #f9f9f9;
+}
+.tcd-case-show .tcd-case-show-title p {
+  font-size: 16px;
+}
+.tcd-case-show .tcd-case-show-content {
+  padding-top: 50px;
+  height: 700px;
+}
+.tcd-case-show .tcd-case-show-content .per33 .pic {
+  width: 100%;
+  text-align: center;
+}
+.tcd-case-show .tcd-case-show-content .per33 .pic img {
+  width: 90%;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+.tcd-case-show .tcd-case-show-content .per33 .pic img:hover {
+  width: 95%;
+}
+/*5.案例展示-福田警察结束*/
+/*培训打卡系统结束*/

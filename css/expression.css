@@ -1,0 +1,153 @@
+.row:before,
+.row:after {
+  display: table;
+  content: " ";
+}
+.row:after {
+  clear: both;
+}
+:after,
+:before {
+  box-sizing: border-box;
+}
+.expression-title {
+  margin-bottom: 67px;
+  padding-top: 65px;
+}
+.expression-title h2 {
+  font-size: 26px;
+  font-weight: 400;
+  color: #3a2628;
+}
+/*形象表情包页和vr页通用组件开始*/
+.ex-vr-content .per25 {
+  height: 341px;
+  margin-bottom: 115px;
+  position: relative;
+}
+.ex-vr-content .per25 .image-rel {
+  position: absolute;
+  height: 341px;
+  width: 80%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.ex-vr-content .per25 .image-rel .image-box {
+  height: 341px;
+  position: relative;
+  width: 100%;
+  transition: all 0.5s;
+}
+.ex-vr-content .per25 .image-rel .image-box .image-items {
+  position: absolute;
+  top: 68px;
+  left: 50%;
+  width: 177px;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.ex-vr-content .per25 .image-rel .image-box .image-items .icon,
+.ex-vr-content .per25 .image-rel .image-box .image-items h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.ex-vr-content .per25 .image-rel .image-box .image-items h2 {
+  font-size: 18px;
+  color: #3A2628;
+  font-weight: 400;
+}
+.ex-vr-content .per25 .image-rel .image-box .image-items p {
+  font-size: 16px;
+  color: #adadad;
+}
+.ex-vr-content .per25 .image-rel .image-box:hover {
+  box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+  margin-top: -10px;
+  border-radius: 10px;
+}
+/*形象表情包页和vr页通用组件结束*/
+/*形象表情包制作开始*/
+/*1.海报banner制作开始*/
+/*这里样式用proapganda页面的*/
+/*1.海报banner制作结束*/
+/*2.政府形象设计要点开始*/
+.image-design .expression-title {
+  margin-bottom: 81px;
+}
+/*2.政府形象设计要点结束*/
+/*3.政府表情包设计要点开始*/
+.expression-disign {
+  background-color: #F9F9F9;
+}
+.expression-disign .expression-content {
+  padding-bottom: 138px;
+  padding: 0 7px;
+}
+.expression-disign .expression-content .per33 {
+  background-size: 100% 100%;
+}
+.expression-disign .expression-content .per33 .expression-box {
+  width: 100%;
+  height: 503px;
+  position: relative;
+}
+.expression-disign .expression-content .per33 .expression-box .expression-item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  width: 60%;
+}
+.expression-disign .expression-content .per33 .expression-box .expression-item .icon,
+.expression-disign .expression-content .per33 .expression-box .expression-item h2,
+.expression-disign .expression-content .per33 .expression-box .expression-item p {
+  text-align: center;
+}
+.expression-disign .expression-content .per33 .expression-box .expression-item h2,
+.expression-disign .expression-content .per33 .expression-box .expression-item p {
+  color: #fff;
+}
+.expression-disign .expression-content .per33 .expression-box .expression-item h2 {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+.expression-disign .expression-content .per33 .expression-box .expression-item p {
+  font-size: 15px;
+  color: #adadad;
+}
+.expression-disign .expression-content .per33 .expression-box:hover {
+  background: rgba(247, 48, 59, 0.5) no-repeat;
+}
+.expression-disign .expression-content .expression-box1 {
+  background: url(../images/expression-iconbg1.png);
+}
+.expression-disign .expression-content .expression-box2 {
+  background: url(../images/expression-iconbg2.png);
+}
+.expression-disign .expression-content .expression-box3 {
+  background: url(../images/expression-iconbg3.png);
+}
+/*3.政府表情包设计要点结束*/
+/*4.设计案例展示开始*/
+.image-disign-case .expression-content {
+  padding-top: 10px;
+}
+.image-disign-case .expression-content .per25 {
+  margin-bottom: 34px;
+}
+.image-disign-case .expression-content .per25 .case-box {
+  width: 90.35%;
+  border: 1px solid #E2E2E2;
+  padding: 44px;
+}
+.image-disign-case .expression-content .per25 .case-box img {
+  width: 100%;
+}
+/*4.设计案例展示结束*/
+/*形象表情包制作结束*/

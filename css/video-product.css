@@ -1,0 +1,214 @@
+/*视频制作开始*/
+/*2.视频的类型和作用开始*/
+.video-type-func .video-play .video-type-wrap {
+  position: relative;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left {
+  float: left;
+  width: 30.666666%;
+  position: relative;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box {
+  height: 542px;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item {
+  width: 47.01%;
+  margin: 0 auto;
+  padding-top: 117px;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item .icon,
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item h2,
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item p {
+  text-align: center;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item .icon {
+  width: 50%;
+  margin: 0 auto;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item .icon img {
+  width: 100%;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item h2 {
+  color: #3A2628;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 18px;
+  margin-top: 10px;
+}
+.video-type-func .video-play .video-type-wrap .video-type-left .video-type-box .video-type-item p {
+  font-size: 18px;
+  color: #adadad;
+}
+.video-type-func .video-play .video-type-wrap .video-type-right {
+  float: left;
+  width: 69.333333%;
+}
+.video-type-func .video-play .video-type-wrap .video-type-right .video-play-box {
+  position: relative;
+  height: 542px;
+  width: 100%;
+}
+.video-type-func .video-play .video-type-wrap .video-type-right .video-play-box .video-play {
+  width: 100%;
+  height: 100%;
+  padding: 1.35%;
+  background-color: #fff;
+  box-shadow: -5px 0px 50px 4px rgba(109, 109, 109, 0.1);
+}
+.video-type-func .video-play .video-type-wrap .video-type-right .video-play-box .video-play video {
+  width: 100%;
+  height: 100%;
+}
+.video-type-func .video-type {
+  padding-top: 66px;
+  padding-bottom: 55px;
+}
+.video-type-func .video-type .per33 {
+  position: relative;
+  height: 276px;
+  margin-bottom: 68px;
+}
+.video-type-func .video-type .per33 .video-type-box {
+  position: absolute;
+  width: 69.77%;
+  height: 276px;
+  left: 50%;
+  top: 50%;
+  box-shadow: -5px 0px 50px 4px rgba(149, 11, 11, 0.1);
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.video-type-func .video-type .per33 .video-type-box .video-type-item {
+  position: absolute;
+  width: 60%;
+  display: inline-block;
+  left: 50%;
+  top: 47px;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.video-type-func .video-type .per33 .video-type-box .video-type-item .icon,
+.video-type-func .video-type .per33 .video-type-box .video-type-item h2 {
+  text-align: center;
+}
+.video-type-func .video-type .per33 .video-type-box .video-type-item .icon {
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.video-type-func .video-type .per33 .video-type-box .video-type-item .icon img {
+  width: 100%;
+}
+.video-type-func .video-type .per33 .video-type-box .video-type-item h2 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #3A2628;
+  margin-bottom: 14px;
+  margin-top: 5px;
+}
+.video-type-func .video-type .per33 .video-type-box .video-type-item p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #777;
+}
+/*2.视频的类型和作用结束*/
+/*3.视频制作流程开始*/
+.video-product-process {
+  background-color: #F9F9F9;
+}
+.video-product-process .poster-title {
+  padding-top: 65px;
+  margin-top: 0;
+}
+.video-product-process .content {
+  margin-top: 25px;
+}
+.video-product-process .content .pic {
+  margin-bottom: 31px;
+  width: 892px;
+  position: relative;
+  margin-left: 153px;
+  margin-right: 100px;
+}
+.video-product-process .content .pic img {
+  width: 100%;
+  position: absolute;
+  top: 96px;
+  left: 0;
+}
+.video-product-process .content .per20 {
+  position: relative;
+  height: 598px;
+}
+.video-product-process .content .per20 .icon-box {
+  position: relative;
+  height: 221px;
+}
+.video-product-process .content .per20 .icon-box .flow-icon {
+  width: 142px;
+  height: 142px;
+  position: absolute;
+  border-radius: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.video-product-process .content .per20 .icon-box .flow-icon div.para {
+  width: 102px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.video-product-process .content .per20 .icon-box .flow-icon div.para p {
+  color: #fff;
+  font-size: 17px;
+  text-align: center;
+}
+.video-product-process .content .per20 .icon-box .flow-icon1 {
+  background: #FEBC75;
+  top: 0;
+}
+.video-product-process .content .per20 .icon-box .flow-icon2 {
+  background: #FE8175;
+  bottom: 0;
+}
+.video-product-process .content .per20 .icon-box .flow-icon3 {
+  background: #75FED6;
+}
+.video-product-process .content .per20 .icon-box .flow-icon4 {
+  background: #75CFFE;
+  bottom: 0;
+}
+.video-product-process .content .per20 .icon-box .flow-icon5 {
+  background: #FE75FC;
+}
+.video-product-process .content .per20 .item-box {
+  position: relative;
+  height: 220px;
+}
+.video-product-process .content .per20 .item-box .flow-items {
+  position: absolute;
+  top: 31px;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  display: inline-block;
+  width: 70%;
+}
+.video-product-process .content .per20 .item-box .flow-items h3 {
+  font-size: 20px;
+  color: #3A2628;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 26px;
+}
+.video-product-process .content .per20 .item-box .flow-items p {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+  color: #7C7C7C;
+}
+/*3.视频制作流程结束*/
+/*视频制作结束*/

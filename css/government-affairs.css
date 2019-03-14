@@ -1,0 +1,54 @@
+/*政务H5开发开始*/
+/*1.海报banner制作开始*/
+/*1.海报banner制作结束*/
+/*2.政策解读类开始*/
+.policy-interpretation .government-affairs-content {
+  padding: 82px 0 105px;
+}
+.policy-interpretation .government-affairs-content .per33 .policy-box .policy-item {
+  width: 83.75%;
+  display: inline-block;
+  box-shadow: -6px 0px 38px 2px rgba(151, 23, 23, 0.25);
+  padding: 6px 6px 2px 7px;
+}
+.policy-interpretation .government-affairs-content .per33 .policy-box img {
+  width: 100%;
+}
+.policy-interpretation .government-affairs-content .per33 .policy-box2 {
+  text-align: center;
+}
+.policy-interpretation .government-affairs-content .per33 .policy-box3 {
+  text-align: right;
+}
+/*2.政策解读类结束*/
+/*3.宣传展示类开始*/
+.publicity-display {
+  background-color: #F9F9F9;
+}
+.publicity-display .government-affairs-content {
+  padding: 57px 0 44px;
+}
+.publicity-display .government-affairs-content .publicity-box {
+  text-align: center;
+}
+.publicity-display .government-affairs-content .publicity-box img {
+  width: 76.25%;
+}
+/*3.宣传展示类结束*/
+/*4.互动游戏类开始*/
+/*4.互动游戏类结束*/
+/*5.政务H5制作优势开始*/
+.product-advantage {
+  background-color: #F9F9F9;
+}
+.product-advantage .government-affairs-content {
+  padding: 57px 0 99px;
+}
+.product-advantage .government-affairs-content .product-advantage-box {
+  text-align: center;
+}
+.product-advantage .government-affairs-content .product-advantage-box img {
+  width: 56%;
+}
+/*5.政务H5制作优势结束*/
+/*政务H5开发结束*/

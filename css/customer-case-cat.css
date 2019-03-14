@@ -1,0 +1,297 @@
+/*客户案例-分类页开始*/
+/*1.标题-筛选模块开始*/
+.csmcs-title-screen-module {
+  background-color: #f9f9f9;
+  padding-top: 55px;
+  padding-bottom: 66px;
+}
+.csmcs-title-screen-module .csmcs-title {
+  padding-bottom: 30px;
+}
+.csmcs-title-screen-module .csmcs-title h2 {
+  font-size: 26px;
+  color: #3A2628;
+  text-align: center;
+  font-weight: 400;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content {
+  border-raidus: 10px;
+  background-color: #fff;
+  padding: 0 21px;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl {
+  border-bottom: 1px solid #E3E3E3;
+  padding: 29px 0 16px;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl dt,
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl dd {
+  float: left;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl dt {
+  margin-right: 29px;
+  font-size: 18px;
+  color: #3A2628;
+  vertical-align: middle;
+  padding: 6px 0;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl a {
+  font-size: 16px;
+  color: #ADADAD;
+  margin-right: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl a.active {
+  color: #fff;
+  background-color: #F64937;
+  padding: 6px 14px;
+}
+.csmcs-title-screen-module .csmcs-screen-module-content .csmcs-screen-module-box dl:last-of-type {
+  border: none;
+}
+/*1.标题-筛选模块结束*/
+/*2.图文列表开始*/
+.csmcs-pic-text-list {
+  margin-top: 47px;
+}
+.csmcs-pic-text-list .row {
+  margin-bottom: 49px;
+}
+.csmcs-pic-text-list .row .per33 a {
+  display: block;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box {
+  text-align: left;
+  width: 93%;
+  display: inline-block;
+  height: 351px;
+  border: 1px solid #D4D4D4;
+  padding: 34px 33px 20px 30px;
+  transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .pic {
+  margin-bottom: 17px;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .pic img {
+  width: 100%;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .text .text-span-box {
+  margin-bottom: 3px;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .text .text-span-box span {
+  display: inline-block;
+  font-size: 14px;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .text .text-span-box .key {
+  color: #ADADAD;
+  width: 75px;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .text .text-span-box .value {
+  color: #3A2628;
+  font-size: 14px;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box .csmcs-pic-text-list-item .text .text-title .value {
+  color: #F64937;
+}
+.csmcs-pic-text-list .row .per33 a .csmcs-pic-text-list-box:hover {
+  background-color: #fff;
+  box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+  -ms-box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+}
+.csmcs-pic-text-list .row .per33:nth-of-type(2) {
+  text-align: center;
+}
+.csmcs-pic-text-list .row .per33:nth-of-type(3) {
+  text-align: right;
+}
+/*2.图文列表结束*/
+/*3.分页导航按钮开始*/
+.csmcs-page-nav-btn {
+  padding-bottom: 34px;
+}
+.csmcs-page-nav-btn .container {
+  /*.page-nav {
+				.page {
+					text-align: right;
+					a {
+						font-size: 15px;
+						border: 1px solid #C2C2C2;
+						display: inline-block;
+						width: 31px;
+						height: 31px;
+						color: #C2C2C2;
+						line-height: 31px;
+						text-align: center;
+						margin-right: 14px;
+					}
+					a:last-of-type {
+						margin-right: 0;
+					}
+				}
+			}*/
+}
+.csmcs-page-nav-btn .container .page-nav {
+  text-align: right;
+}
+.csmcs-page-nav-btn .container .page-nav a {
+  font-size: 13px;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  color: #747580;
+  line-height: 26px;
+  text-align: center;
+}
+.csmcs-page-nav-btn .container .page-nav a.active {
+  background-color: #FC4141;
+  color: #fff;
+}
+/*3.分页导航按钮结束*/
+/*客户案例-分类页结束*/
+.post-content {
+  padding: 0 116px 0 119px;
+  position: relative;
+}
+.post-content p {
+  text-indent: 2em;
+  font-size: 16px;
+  color: #838383;
+  padding-bottom: 15px;
+  line-height: 1.5;
+}
+.post-content .pic2 {
+  margin-top: 27px;
+  margin-bottom: 27px;
+  text-align: center;
+}
+.post-content .pic2 .pic-content {
+  border: 1px solid #DFDFDF;
+  padding: 13px;
+  width: 50%;
+  display: inline-block;
+}
+.post-content .pic2 .pic-content img {
+  width: 100%;
+}
+/*客户案例-详情页开始*/
+.customer-case-post {
+  background-color: #f9f9f9;
+  padding: 45px 0 54px;
+}
+.customer-case-post .container {
+  background-color: #fff;
+  /*面包屑导航开始*/
+  /*面包屑导航结束*/
+  /*案例图文简介开始*/
+  /*案例图文简介结束*/
+  /*案例详情描述开始*/
+  /*案例详情描述结束*/
+}
+.customer-case-post .container .bread-crumb-nav {
+  padding-left: 35px;
+  padding-right: 30px;
+}
+.customer-case-post .container .bread-crumb-nav .text {
+  padding-top: 49px;
+  padding-bottom: 27px;
+  border-bottom: 1px solid #E6E6E6;
+}
+.customer-case-post .container .bread-crumb-nav .text span {
+  color: #878787;
+  font-size: 18px;
+}
+.customer-case-post .container .bread-crumb-nav .text span.details {
+  color: #3A2628;
+}
+.customer-case-post .container .bread-crumb-nav .text:before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 22px;
+  background-color: #F64937;
+  margin-right: 18px;
+  position: relative;
+  top: 4px;
+}
+.customer-case-post .container .case-pic-text-intro {
+  padding-left: 35px;
+  padding-right: 30px;
+}
+.customer-case-post .container .case-pic-text-intro .row {
+  padding-top: 71px;
+  padding-bottom: 66px;
+  border-bottom: 1px solid #E6E6E6;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-left,
+.customer-case-post .container .case-pic-text-intro .row .per-right {
+  float: left;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-left {
+  width: 52.91%;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-left .pic {
+  text-align: right;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-left .pic img {
+  width: 79.9667%;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-right {
+  width: 47.09%;
+  padding-left: 73px;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-right .text {
+  padding-top: 12px;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-right .text h2 {
+  font-size: 20px;
+  color: #3A2628;
+  margin-bottom: 34px;
+  font-weight: 400;
+}
+.customer-case-post .container .case-pic-text-intro .row .per-right .text h2 img {
+  width: 25px;
+  height: 25px;
+  margin-right: 13px;
+  position: relative;
+  top: 5px;
+}
+.customer-case-post .container .case-detail {
+  padding-left: 35px;
+  padding-right: 30px;
+}
+.customer-case-post .container .case-detail .post-title {
+  padding-top: 57px;
+  padding-bottom: 54px;
+  padding-left: 17px;
+}
+.customer-case-post .container .case-detail .post-title h2 {
+  font-size: 26px;
+  font-weight: 400;
+}
+.customer-case-post .container .case-detail .post-content {
+  padding: 0 116px 0 119px;
+  position: relative;
+}
+.customer-case-post .container .case-detail .post-content p {
+  text-indent: 2em;
+  font-size: 16px;
+  color: #838383;
+  padding-bottom: 15px;
+  line-height: 1.5;
+}
+.customer-case-post .container .case-detail .post-content .pic2 {
+  margin-top: 27px;
+  margin-bottom: 27px;
+  text-align: center;
+}
+.customer-case-post .container .case-detail .post-content .pic2 .pic-content {
+  border: 1px solid #DFDFDF;
+  padding: 13px;
+  width: 50%;
+  display: inline-block;
+}
+.customer-case-post .container .case-detail .post-content .pic2 .pic-content img {
+  width: 100%;
+}
+/*客户案例-详情页结束*/

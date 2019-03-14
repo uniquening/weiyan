@@ -1,0 +1,89 @@
+ul,
+li {
+  list-style: none;
+}
+#slide-show {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 40px;
+  max-width: 1920px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+#slide-show .pic-box {
+  position: absolute;
+  height: 100%;
+}
+#slide-show .pic-box li {
+  float: left;
+  height: 100%;
+}
+#slide-show .pic-box li img {
+  width: 100%;
+  height: 100%;
+}
+#slide-show .btn {
+  position: absolute;
+  width: 36px;
+  height: 51px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#slide-show .btn-right {
+  display: none;
+  right: 0;
+  background: url(https://img3.doubanio.com/f/music/f7a7edb086efd2b104a547882609d490a701dc00/pics/music/home/banner_arrow.png) -50px -70px no-repeat;
+}
+#slide-show .btn-right:hover {
+  display: none;
+  right: 0;
+  background: url(https://img3.doubanio.com/f/music/f7a7edb086efd2b104a547882609d490a701dc00/pics/music/home/banner_arrow.png) -50px 1px no-repeat;
+}
+#slide-show .btn-left {
+  display: none;
+  left: 0;
+  background: url(https://img3.doubanio.com/f/music/f7a7edb086efd2b104a547882609d490a701dc00/pics/music/home/banner_arrow.png) 0px -70px no-repeat;
+}
+#slide-show .btn-left:hover {
+  display: none;
+  left: 0;
+  background: url(https://img3.doubanio.com/f/music/f7a7edb086efd2b104a547882609d490a701dc00/pics/music/home/banner_arrow.png) 0px 1px no-repeat;
+}
+#slide-show .sml-pic {
+  overflow: hidden;
+  position: absolute;
+  bottom: 18px;
+  right: 18.75%;
+}
+#slide-show .sml-pic li {
+  position: relative;
+  width: 30px;
+  height: 10px;
+  background-color: #fff;
+  float: left;
+  margin-right: 10px;
+  /* opacity: .3; */
+}
+#slide-show .sml-pic li span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  background-color: #f71313;
+  transition: width linear 0;
+  -moz-transition: width linear 0;
+  -webkit-transition: width linear 0;
+  -o-transition: width linear 0;
+}
+#slide-show .sml-pic li span.fill {
+  width: 100%;
+  transition: width linear 5000ms;
+  -moz-transition: width linear 5000ms;
+  -webkit-transition: width linear 5000ms;
+  -o-transition: width linear 5000ms;
+}
+/* #slide-show .active{
+    background-color: #ddd !important;
+} */

@@ -1,0 +1,198 @@
+/*4.定制报告和问卷调查应用场景开始*/
+.cr-qui-app-scenario {
+  padding-bottom: 115px;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box {
+  width: 96.6667%;
+  border: 1px solid #DFDFDF;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box .cr-qui-app-scenario-item h2 {
+  color: #3A2628;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  height: 56px;
+  line-height: 56px;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box .cr-qui-app-scenario-item .pic img {
+  width: 100%;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box .cr-qui-app-scenario-item .meta-box {
+  font-size: 12px;
+  height: 34px;
+  line-height: 34px;
+  color: #B7B1B1;
+  padding-left: 15px;
+  padding-right: 21px;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box .cr-qui-app-scenario-item .meta-box .meta-date .clock-icon {
+  position: relative;
+  top: 2px;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box .cr-qui-app-scenario-item .meta-box .meta-point {
+  float: right;
+}
+.cr-qui-app-scenario .cr-qui-app-scenario-content .per25 .cr-qui-app-scenario-box .cr-qui-app-scenario-item .meta-box .meta-point .point {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #B7B1B1;
+  display: inline-block;
+  margin-left: 4px;
+}
+/*4.定制报告和问卷调查应用场景结束 */
+/*定制报告开始*/
+/*1.海报制作开始*/
+.cr-poster .wrapper .pic img {
+  width: 100%;
+  height: auto;
+}
+.cr-poster .wrapper .text-box .container .text {
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cr-poster .wrapper .text-box .container .text h1,
+.cr-poster .wrapper .text-box .container .text p {
+  color: #FEFEFE;
+}
+.cr-poster .wrapper .text-box .container .text h1 {
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: 5px;
+}
+.cr-poster .wrapper .text-box .container .text p {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 2px;
+  width: 45%;
+  line-height: 1.7;
+}
+.cr-poster .wrapper .text-box .container a {
+  text-decoration: none;
+  width: 15.104167%;
+  color: #F44A38;
+  top: 57.34%;
+  display: inline-block;
+  text-align: center;
+  font-size: 0px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.cr-poster .wrapper .text-box .container a img {
+  width: 100%;
+}
+/*1.海报制作结束*/
+/*2.我们的优势开始*/
+.cr-our-advantages .cr-our-advant-content {
+  padding-bottom: 155px;
+}
+.cr-our-advantages .cr-our-advant-content .per33 {
+  height: 400px;
+}
+.cr-our-advantages .cr-our-advant-content .per33 .cr-our-advant-box {
+  padding-top: 35px;
+  width: 342px;
+  width: 85.5%;
+  margin: 0 auto;
+  height: 100%;
+  transition: all 0.6s;
+}
+.cr-our-advantages .cr-our-advant-content .per33 .cr-our-advant-box .cr-our-advant-item {
+  width: 273px;
+  margin: 0 auto;
+  width: 79.8246%;
+}
+.cr-our-advantages .cr-our-advant-content .per33 .cr-our-advant-box .cr-our-advant-item .icon img img {
+  width: 100%;
+}
+.cr-our-advantages .cr-our-advant-content .per33 .cr-our-advant-box .cr-our-advant-item p {
+  font-size: 16px;
+  color: #6D6D6D;
+  margin-top: 48px;
+}
+.cr-our-advantages .cr-our-advant-content .per33 .cr-our-advant-box:hover {
+  background-color: #fff;
+  box-shadow: 6px 9px 40px 0px #f3f2f2;
+}
+/*2.我们的优势结束*/
+/*3.数据来源开始 */
+.data-sources {
+  background-color: #f9f9f9;
+  padding-bottom: 60px;
+}
+.data-sources .cr-data-sources-content .row {
+  margin-bottom: 66px;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-left {
+  width: 103px;
+  width: 17.16667%;
+  float: left;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-left .icon {
+  text-align: right;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-left .icon img {
+  width: 67%;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-right {
+  width: 497px;
+  width: 82.83333%;
+  float: left;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-right .text {
+  padding-left: 29px;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-right .text h2 {
+  color: #3A2628;
+  font-size: 20px;
+  font-weight: 400;
+}
+.data-sources .cr-data-sources-content .row .per50 .cr-data-item .row-inner .per-inner-right .text p {
+  width: 397px;
+  width: 79.88%;
+  color: #8D8C8D;
+  font-size: 16px;
+  padding-top: 12px;
+}
+/*3.数据来源结束*/
+/*4.应用场景开始*/
+.cr-app-scenario {
+  padding-bottom: 115px;
+}
+.cr-app-scenario .cr-app-scenario-content .per25 .cr-app-scenario-box {
+  width: 96.6667%;
+  border: 1px solid #DFDFDF;
+}
+.cr-app-scenario .cr-app-scenario-content .per25 .cr-app-scenario-box .cr-app-scenario-item h2 {
+  color: #3A2628;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  height: 56px;
+  line-height: 56px;
+}
+.cr-app-scenario .cr-app-scenario-content .per25 .cr-app-scenario-box .cr-app-scenario-item .pic img {
+  width: 100%;
+}
+.cr-app-scenario .cr-app-scenario-content .per25 .cr-app-scenario-box .cr-app-scenario-item .meta-box {
+  font-size: 12px;
+  height: 34px;
+  line-height: 34px;
+  color: #B7B1B1;
+  padding-left: 15px;
+  padding-right: 21px;
+}
+.cr-app-scenario .cr-app-scenario-content .per25 .cr-app-scenario-box .cr-app-scenario-item .meta-box .meta-point {
+  float: right;
+}
+.cr-app-scenario .cr-app-scenario-content .per25 .cr-app-scenario-box .cr-app-scenario-item .meta-box .meta-point .point {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #B7B1B1;
+  display: inline-block;
+  margin-left: 4px;
+}
+/*4.应用场景结束 */
+/*定制报告结束*/

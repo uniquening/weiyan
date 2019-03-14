@@ -1,0 +1,128 @@
+/*新媒体制作开始*/
+/*2.产品分类开始*/
+.nmp-product-cat .container {
+  position: relative;
+  padding-top: 39px;
+}
+.nmp-product-cat .container .pic img {
+  width: 103%;
+}
+.nmp-product-cat .container .content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.nmp-product-cat .container .content .row .per33 {
+  position: relative;
+}
+.nmp-product-cat .container .content .row .per33 .item-box {
+  width: 79%;
+  height: 254px;
+  padding-top: 72px;
+  background-color: #fff;
+  display: inline-block;
+  box-shadow: 0px 0px 43px 0px rgba(192, 187, 187, 0.18);
+}
+.nmp-product-cat .container .content .row .per33 .item-box .item {
+  width: 75.95%;
+  margin: 0 auto;
+}
+.nmp-product-cat .container .content .row .per33 .item-box .item h2 {
+  font-size: 20px;
+  color: #3E3D3D;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.nmp-product-cat .container .content .row .per33 .item-box .item p {
+  font-size: 16px;
+  color: #6D6D6D;
+}
+.nmp-product-cat .container .content .row .per33 .item-box:hover {
+  background-color: #FD5F4E;
+}
+.nmp-product-cat .container .content .row .per33 .item-box:hover .item h2,
+.nmp-product-cat .container .content .row .per33 .item-box:hover .item p {
+  color: #fff;
+}
+.nmp-product-cat .container .content .row .per33:nth-of-type(1) {
+  top: 111px;
+  left: 25px;
+}
+.nmp-product-cat .container .content .row .per33:nth-of-type(2) {
+  top: 221px;
+  left: 25px;
+}
+.nmp-product-cat .container .content .row .per33:nth-of-type(3) {
+  top: 127px;
+  left: 25px;
+}
+.nmp-product-cat .container .content .row .per33:nth-of-type(4) {
+  top: 278px;
+  left: 14px;
+}
+.nmp-product-cat .container .content .row .per33:nth-of-type(5) {
+  top: 456px;
+  left: 18px;
+}
+.nmp-product-cat .container .content .row .per33:nth-of-type(6) {
+  top: 359px;
+  left: 41px;
+}
+/*2.产品分类结束*/
+/*3.新媒体制作流程开始*/
+.nmp-process .nmp-process-content .per33 {
+  margin-bottom: 57px;
+}
+.nmp-process .nmp-process-content .per33 .item-box {
+  width: 77%;
+  margin: 0 auto;
+  border: 1px solid #DFDFDF;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  min-height: 360px;
+  width: 98%;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .pic {
+  text-align: center;
+  margin-bottom: 30px;
+  width: 100%;
+  max-height: 83px;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .pic img {
+  width: 37.333%;
+  max-height: 83px;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .text {
+  width: 68%;
+  margin: 0 auto;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .text h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #3E3D3D;
+  text-align: center;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .text h2 span:first-of-type {
+  font-size: 28px;
+  margin-right: 10px;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .text h2 span:last-of-type {
+  font-size: 24px;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content .text p {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 300;
+}
+.nmp-process .nmp-process-content .per33 .item-box .item-content:hover {
+  border: none;
+}
+.nmp-process .nmp-process-content .per33 .item-box:hover {
+  box-shadow: 0px 3px 40px 0px #e5e4e4;
+}
+/*3.新媒体制作流程结束*/
+/*新媒体制作结束*/

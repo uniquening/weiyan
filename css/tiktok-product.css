@@ -1,0 +1,117 @@
+.per-left {
+  float: left;
+}
+.per-right {
+  float: right;
+}
+/*抖音制作开始*/
+/*2.政务抖音号如何策划开始*/
+.tiktok-plan .tictok-plan-content {
+  width: 88.42%;
+  margin: 0 auto;
+  height: 345px;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg {
+  height: 100%;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 {
+  padding-bottom: 109px;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box {
+  position: relative;
+  width: 296px;
+  height: 345px;
+  transition: all 0.5s;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item {
+  width: 160px;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item .icon,
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item h2 {
+  text-align: center;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item .text h2 {
+  margin-top: 30px;
+  margin-bottom: 17px;
+  font-size: 18px;
+  color: #3A2628;
+  font-weight: 400;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item .text p {
+  font-size: 15px;
+  color: #adadad;
+  text-align: center;
+}
+.tiktok-plan .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box:hover {
+  margin-top: -10px;
+  box-shadow: -5px 0px 50px 4px rgba(149, 11, 11, 0.1);
+}
+/*2.政务抖音号如何策划结束*/
+/*3.政务抖音号如何获得粉丝开始*/
+.tiktok-get-fans {
+  background-color: #F9F9F9;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left {
+  width: 61%;
+  padding-top: 18px;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text {
+  height: 103px;
+  margin-bottom: 82px;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner,
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-right-inner {
+  float: left;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner {
+  width: 9%;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner .icon {
+  width: 41px;
+  height: 41px;
+  border-radius: 50%;
+  background-color: #F9795B;
+  display: inline-block;
+  text-align: center;
+  line-height: 41px;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner .icon span {
+  font-size: 19px;
+  color: #FFF;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner .icon2 {
+  background-color: #FF8383;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner .icon3 {
+  background-color: #38CFEA;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-left-inner .icon4 {
+  background-color: #DD5BF9;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-right-inner {
+  width: 91%;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-right-inner .para-box h2 {
+  font-size: 24px;
+  color: #3A2628;
+  font-weight: 500;
+  margin-bottom: 18px;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-left .text .per-right-inner .para-box p {
+  font-size: 18px;
+  color: #777;
+  width: 70%;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-right {
+  width: 39%;
+}
+.tiktok-get-fans .tiktok-get-fans-content .row-outer .per-right img {
+  width: 100%;
+}
+/*3.政务抖音号如何获得粉丝结束*/
+/*抖音制作开始*/

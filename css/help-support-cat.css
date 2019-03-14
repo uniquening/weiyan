@@ -1,0 +1,212 @@
+/*帮助支持-分类页开始*/
+/*搜索组件开始*/
+.search-wrapper {
+  padding: 44px 0;
+}
+.search-wrapper .container .search-box {
+  text-align: center;
+}
+.search-wrapper .container .search-box .search-item form {
+  display: inline-block;
+  position: relative;
+}
+.search-wrapper .container .search-box .search-item form .search-input input[type="text"] {
+  height: 61px;
+  width: 491px;
+  outline: none;
+  border: 1px solid #D3D3D3;
+  font-size: 18px;
+  padding-left: 50px;
+  color: #E0E0E0;
+}
+.search-wrapper .container .search-box .search-item form .search-input input[type="text"]::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #E0E0E0;
+}
+.search-wrapper .container .search-box .search-item form .search-input input[type="text"]:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #E0E0E0;
+}
+.search-wrapper .container .search-box .search-item form .search-input input[type="text"]::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #E0E0E0;
+}
+.search-wrapper .container .search-box .search-item form .search-input input[type="text"]:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #E0E0E0;
+}
+.search-wrapper .container .search-box .search-item form .search-btn {
+  position: absolute;
+  right: -105px;
+  text-align: center;
+  height: 61px;
+  width: 105px;
+  line-height: 61px;
+  outline: none;
+  background-color: #F64937;
+}
+.search-wrapper .container .search-box .search-item form .search-btn a {
+  color: #fff;
+  font-size: 22px;
+}
+.search-wrapper .container .search-box .search-item form a.search-icon {
+  position: absolute;
+  left: 12px;
+  top: 17px;
+  display: inline-block;
+  width: ;
+}
+/*搜索组件结束*/
+.main-area {
+  /*侧边栏开始*/
+  /*侧边栏结束*/
+  /*分类页内容区开始*/
+  /*分类页内容区结束*/
+}
+.main-area .per-left,
+.main-area .per-right {
+  float: left;
+}
+.main-area .per-left {
+  width: 17.75%;
+}
+.main-area .per-left .sidebar .nav-menus {
+  border: 1px solid #EFEFEF;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li {
+  border-bottom: 1px solid #EFEFEF;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a {
+  display: block;
+  text-align: center;
+  height: 67px;
+  line-height: 67px;
+  position: relative;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a span {
+  font-size: 16px;
+  color: #939191;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a span:nth-of-type(1) {
+  margin-right: 10px;
+  position: relative;
+  top: 5px;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.par-active span {
+  color: #3a2628;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li ul li a {
+  color: #939191;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li ul li a.active {
+  position: relative;
+  background-color: #F64937;
+  color: #fff;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li ul li a.active span {
+  color: #fff;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li ul li a:before {
+  display: none;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.active {
+  position: relative;
+  background-color: #F64937;
+  display: block;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.active span {
+  color: #fff;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a:before {
+  content: '';
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.fir:before {
+  background: url('../images/hsc-sidebar-help-support-deactive-icon1.png') no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 11px;
+  right: 8px;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.active.fir:before {
+  background: url('../images/hsc-sidebar-help-support-active-icon1.png') no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 11px;
+  right: 8px;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.sec:before {
+  background: url('../images/hsc-sidebar-my-activity-deactive-icon2.png') no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 11px;
+  right: 8px;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.active.sec:before {
+  background: url('../images/hsc-sidebar-my-activity-active-icon2.png') no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 11px;
+  right: 8px;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a:after {
+  content: '';
+  border-color: transparent transparent transparent rgba(246, 73, 55, 0.5);
+  border-width: 10px 12px;
+  border-style: solid;
+  position: absolute;
+  right: -33px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  display: none;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li a.active:after {
+  display: inline-block;
+}
+.main-area .per-left .sidebar .nav-menus .nav-box ul li:last-of-type {
+  border-bottom: none;
+}
+.main-area .per-right {
+  width: 82.25%;
+  padding-left: 60px;
+  padding-bottom: 30px;
+}
+.main-area .per-right .main-content .title {
+  margin-bottom: 40px;
+}
+.main-area .per-right .main-content .title h2 {
+  color: #443838;
+  font-size: 22px;
+  font-weight: 400;
+  height: 67px;
+  line-height: 67px;
+  position: relative;
+}
+.main-area .per-right .main-content .text-list ul li {
+  float: left;
+  width: 50%;
+  margin-bottom: 45px;
+}
+.main-area .per-right .main-content .text-list ul li a {
+  color: #3A2628;
+  font-size: 16px;
+}
+.main-area .per-right .main-content .text-list ul li a:before {
+  content: '.';
+  display: inline-block;
+  position: relative;
+  bottom: 4px;
+  margin-right: 4px;
+}
+.main-area .per-right .main-content .text-list ul li a:hover {
+  color: #F64937;
+}
+.main-area .per-right .main-content .text-list ul li:after {
+  clear: both;
+  content: ' ';
+  display: table;
+}
+/*帮助支持-分类页*/

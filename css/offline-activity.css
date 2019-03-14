@@ -1,0 +1,87 @@
+/*政务线下活动开始*/
+/*2.应用场景开始*/
+/*2.应用场景结束*/
+/*3.服务范围开始*/
+.ofa-server-range .ofa-server-range-content .row .per25 {
+  margin-bottom: 40px;
+}
+.ofa-server-range .ofa-server-range-content .row .per25 .item-box .item {
+  width: 270px;
+  padding-top: 78px;
+  min-height: 290px;
+  border: 1px solid #DFDFDF;
+  text-align: center;
+}
+.ofa-server-range .ofa-server-range-content .row .per25 .item-box .item .pic {
+  text-align: center;
+  min-height: 96px;
+}
+.ofa-server-range .ofa-server-range-content .row .per25 .item-box .item .text {
+  margin-top: 10px;
+}
+.ofa-server-range .ofa-server-range-content .row .per25 .item-box .item .text h2 {
+  font-size: 22px;
+  color: #3A2628;
+  font-weight: 400;
+}
+.ofa-server-range .ofa-server-range-content .row .per25 .item-box .item:hover {
+  box-shadow: -5px 0px 50px 4px #E5E5E5;
+}
+.ofa-server-range .ofa-server-range-content .row .per25:last-of-type .item-box .item {
+  background: #F9F9F9;
+}
+.ofa-server-range .ofa-server-range-content .row .per25:last-of-type .item-box .item .text h2 {
+  color: #D4D1D1;
+}
+/*3.服务范围结束*/
+/*4.案例展示开始*/
+.ofa-case-show .ofa-case-show-content .row {
+  margin-bottom: 66px;
+}
+.ofa-case-show .ofa-case-show-content .row .per-left {
+  float: left;
+  width: 50%;
+  border: 1px solid #C9C9C9;
+  min-height: 379px;
+}
+.ofa-case-show .ofa-case-show-content .row .per-left .text-box {
+  position: relative;
+  min-height: 379px;
+}
+.ofa-case-show .ofa-case-show-content .row .per-left .text-box .text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, 50%);
+  width: 78.33%;
+}
+.ofa-case-show .ofa-case-show-content .row .per-left .text-box .text h2 {
+  color: #3A2628;
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.ofa-case-show .ofa-case-show-content .row .per-left .text-box .text p {
+  color: #6D6D6D;
+  font-size: 14px;
+  font-weight: 300;
+}
+.ofa-case-show .ofa-case-show-content .row .per-right {
+  width: 50%;
+  float: left;
+  min-height: 381px;
+  border: 1px solid #C9C9C9;
+  border-left: none;
+}
+.ofa-case-show .ofa-case-show-content .row .per-right .pic {
+  padding: 15px;
+}
+.ofa-case-show .ofa-case-show-content .row .per-right .pic img {
+  width: 100%;
+  height: 100%;
+}
+/*4.案例展示结束*/
+/*5.我们的客户开始*/
+/*6.我们的客户结束*/
+/*政务线下活动结束*/

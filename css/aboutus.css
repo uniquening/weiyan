@@ -1,0 +1,184 @@
+.aboutus-header {
+  border-bottom: 1px solid #EFEFEF;
+}
+.aboutus {
+  padding-top: 44px;
+  padding-bottom: 80px;
+  /*侧边栏开始*/
+  /*侧边栏结束*/
+  /*内容区开始*/
+  /*内容区结束*/
+}
+.aboutus .per-left {
+  width: 17.75%;
+  float: left;
+}
+.aboutus .per-left .sidebar .nav-menus {
+  border: 1px solid #EFEFEF;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li {
+  border-bottom: 1px solid #EFEFEF;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a {
+  display: block;
+  text-align: center;
+  height: 67px;
+  line-height: 67px;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a span {
+  font-size: 16px;
+  color: #939191;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a span:nth-of-type(1) {
+  margin-right: 10px;
+  position: relative;
+  top: 5px;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li ul {
+  border: 1px solid #EFEFEF;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li ul li a {
+  color: #939191;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a:hover {
+  position: relative;
+  background-color: #F64937;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active span,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a:hover span {
+  color: #fff;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a:before {
+  content: '';
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  position: relative;
+  top: 11px;
+  right: 12px;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.first:before {
+  background: url('../images/aboutus-au-icon-deactiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active.first:before,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.first:hover:before {
+  background: url('../images/aboutus-au-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.second:before {
+  background: url('../images/aboutus-cac-icon-deactiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active.second:before,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.second:hover:before {
+  background: url('../images/aboutus-cac-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.third:before {
+  background: url('../images/aboutus-cv-icon-deactiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active.third:before,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.third:hover:before {
+  background: url('../images/aboutus-cv-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.fourth:before {
+  background: url('../images/aboutus-newsin-icon-deactiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active.fourth:before,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.fourth:hover:before {
+  background: url('../images/aboutus-newsin-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.fifth:before {
+  background: url('../images/aboutus-cu-icon-deactiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active.fifth:before,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.fifth:hover:before {
+  background: url('../images/aboutus-cu-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.sixth:before {
+  background: url('../images/aboutus-ju-icon-deactiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active.sixth:before,
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.sixth:hover:before {
+  background: url('../images/aboutus-ju-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a:after {
+  content: '';
+  border-color: transparent transparent transparent rgba(246, 73, 55, 0.5);
+  border-width: 10px 12px;
+  border-style: solid;
+  position: absolute;
+  right: -33px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: 1;
+  display: none;
+}
+.aboutus .per-left .sidebar .nav-menus .nav-box ul li a.active:after {
+  display: inline-block;
+}
+.aboutus .per-right {
+  width: 82.25%;
+  padding-left: 60px;
+}
+.aboutus .per-right .main-content {
+  padding-right: 37px;
+}
+.aboutus .per-right .main-content .title {
+  margin-bottom: 20px;
+}
+.aboutus .per-right .main-content .title h2 {
+  color: #443838;
+  font-size: 22px;
+  font-weight: 400;
+  height: 67px;
+  line-height: 67px;
+  position: relative;
+}
+.aboutus .per-right .main-content .text-list ul li {
+  float: left;
+  width: 50%;
+  margin-bottom: 56px;
+}
+.aboutus .per-right .main-content .text-list ul li a {
+  color: #3A2628;
+  font-size: 16px;
+}
+.aboutus .per-right .main-content .text-list ul li a:before {
+  content: '.';
+  display: inline-block;
+  position: relative;
+  bottom: 4px;
+  margin-right: 4px;
+}
+.aboutus .per-right .main-content .text-list ul li:after {
+  clear: both;
+  content: ' ';
+  display: table;
+}
+.aboutus .per-right .main-content .text-content h3,
+.aboutus .per-right .main-content .text-content p {
+  font-size: 16px;
+  text-indent: 2em;
+}
+.aboutus .per-right .main-content .text-content h3.red {
+  color: #F64937;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+.aboutus .per-right .main-content .text-content p {
+  color: #3A2628;
+  margin-bottom: 16px;
+  font-weight: 300;
+}

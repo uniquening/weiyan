@@ -1,0 +1,93 @@
+.aboutus.cul-act {
+  /*侧边栏开始*/
+  padding-bottom: 36px;
+  /*侧边栏结束*/
+  /*内容区开始*/
+  /*内容区结束*/
+}
+.aboutus.cul-act .per-left .sidebar .nav-menus .nav-box ul li a.active.sixth:before {
+  background: url('../images/aboutus-ju-icon-actiive.png') no-repeat;
+  background-size: 100%;
+}
+.aboutus.cul-act .per-right {
+  width: 82.25%;
+  padding-left: 60px;
+  float: left;
+}
+.aboutus.cul-act .per-right .main-content {
+  padding: 0;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 {
+  margin-bottom: 50px;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box {
+  text-align: left;
+  width: 87.379%;
+  display: inline-block;
+  border: 1px solid #DFDFDF;
+  padding: 10px 10px 15px 10px;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item a {
+  display: block;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item a .pic img {
+  width: 100%;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item a .text {
+  margin-top: 20px;
+  margin-bottom: 17px;
+  padding: 0 10px;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item a .text .title-h2 {
+  height: 61px;
+  position: relative;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item a .text .title-h2 h2 {
+  font-size: 16px;
+  color: #3A2628;
+  font-weight: 400;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item a .text p {
+  font-size: 14px;
+  color: #898787;
+  text-indent: 0;
+  height: 36px;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item .meta-date {
+  color: #CFCDCD;
+  font-size: 12px;
+  padding: 0 10px;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33 .cul-act-box .cul-act-item .meta-date img {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  top: 2px;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33:nth-of-type(3n-1) {
+  text-align: center;
+}
+.aboutus.cul-act .per-right .main-content .text-content .row .per33:nth-of-type(3n) {
+  text-align: right;
+}
+.aboutus.cul-act .per-right .main-content .text-content .page-nav {
+  text-align: right;
+}
+.aboutus.cul-act .per-right .main-content .text-content .page-nav a {
+  font-size: 13px;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  color: #747580;
+  line-height: 26px;
+  text-align: center;
+}
+.aboutus.cul-act .per-right .main-content .text-content .page-nav a.active {
+  background-color: #FC4141;
+  color: #fff;
+}

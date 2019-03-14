@@ -1,0 +1,305 @@
+.rel {
+  position: relative;
+}
+.per25 {
+  width: 25%;
+  float: left;
+}
+.per33 {
+  width: 33.3333%;
+  float: left;
+}
+.per20 {
+  width: 20%;
+  float: left;
+}
+/*产品服务开始*/
+/*页面通用模块标题栏开始*/
+.poster-title {
+  padding-top: 65px;
+  margin-bottom: 67px;
+}
+.poster-title h2 {
+  font-size: 26px;
+  font-weight: 400;
+  color: #3a2628;
+}
+/*页面通用模块标题栏结束*/
+/*小游戏、vr、政务开始图文模块开始*/
+.lg-vr-ga-title {
+  padding-top: 63px;
+}
+.lg-vr-ga-title h2 {
+  color: #3A2628;
+  font-size: 26px;
+  margin-bottom: 19px;
+}
+.lg-vr-ga-title .para p {
+  color: #adadad;
+  font-size: 14px;
+  margin-bottom: 7px;
+  width: 50%;
+}
+.lg-vr-ga-content {
+  padding: 57px 0 44px;
+}
+.lg-vr-ga-content .lg-vr-ga-box {
+  text-align: center;
+}
+.lg-vr-ga-content .lg-vr-ga-box img {
+  width: 76.25%;
+}
+/*小游戏、vr、政务开始图文模块开始*/
+/*宣传海报-视频制作-知识答题一式6栏开始*/
+.ka-vp-pg-content .per33 {
+  position: relative;
+  height: 299px;
+  transition: all 0.5s;
+}
+.ka-vp-pg-content .per33 .icon-head {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.ka-vp-pg-content .per33 .icon-head .icon {
+  text-align: center;
+}
+.ka-vp-pg-content .per33 .icon-head h3 {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  color: #3a2628;
+}
+.ka-vp-pg-content .per33:hover {
+  box-shadow: -5px 0px 50px 4px rgba(228, 22, 22, 0.1);
+  border-radius: 3px;
+  margin-top: -10px;
+}
+/*宣传海报-视频制作-知识答题一式6栏结束*/
+/*宣传海报制作开始*/
+/*1.海报制作开始*/
+.poster {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.poster .wrapper {
+  position: relative;
+}
+.poster .wrapper .pic {
+  width: 100%;
+  overflow: hidden;
+}
+.poster .wrapper .pic img {
+  width: 100%;
+  display: block;
+}
+.poster .wrapper .text-box {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+.poster .wrapper .text-box .container .text {
+  padding-bottom: 30px;
+}
+.poster .wrapper .text-box .container .text h1,
+.poster .wrapper .text-box .container .text p {
+  color: #FEFEFE;
+}
+.poster .wrapper .text-box .container .text h1 {
+  font-size: 28px;
+  font-weight: 400;
+}
+.poster .wrapper .text-box .container .text p {
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 2px;
+  width: 482px;
+  line-height: 1.7;
+}
+.poster .wrapper .text-box .container a {
+  text-decoration: none;
+  width: 10.104167%;
+  color: #F44A38;
+  top: 57.34%;
+  display: inline-block;
+  text-align: center;
+  font-size: 0px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.poster .wrapper .text-box .container a img {
+  width: 100%;
+}
+@media screen and (max-width: 1200px) {
+  .poster .wrapper a {
+    left: 226px;
+    width: 155px;
+    height: 46px;
+    font-size: 19px;
+    line-height: 46px;
+  }
+}
+/*1.海报制作结束*/
+/*2.政府海报使用场景开始*/
+.scene .row {
+  padding: 0 120px;
+}
+.scene .row .per33 {
+  height: 299px;
+}
+.scene .row .per33 .scene-box {
+  height: 299px;
+  width: 244px;
+  position: relative;
+  transition: all 0.5s;
+}
+.scene .row .per33 .scene-box .scene-item {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.scene .row .per33 .scene-box .scene-item .icon {
+  text-align: center;
+}
+.scene .row .per33 .scene-box .scene-item h3 {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  color: #3a2628;
+}
+.scene .row .per33 .scene-box:hover {
+  box-shadow: -5px 0px 50px 4px rgba(228, 22, 22, 0.1);
+  border-radius: 3px;
+  margin-top: -10px;
+}
+/*2.政府海报使用场景结束*/
+/*3.海报设计流程开始 */
+.design-flow {
+  background-color: #F9F9F9;
+  position: relative;
+  height: 851px;
+}
+.design-flow .poster-title {
+  padding-top: 65px;
+  margin-top: 0;
+}
+.design-flow .content {
+  margin-top: 25px;
+}
+.design-flow .content .pic {
+  margin-bottom: 86px;
+  width: 87.66667%;
+  position: relative;
+  margin-left: 153px;
+  margin-right: 100px;
+}
+.design-flow .content .pic img {
+  width: 100%;
+  position: absolute;
+  top: 137px;
+  left: 0;
+}
+.design-flow .content .per20 {
+  position: relative;
+  height: 598px;
+}
+.design-flow .content .per20 .icon-box {
+  position: relative;
+  height: 221px;
+}
+.design-flow .content .per20 .icon-box .flow-icon {
+  width: 142px;
+  height: 142px;
+  position: absolute;
+  border-radius: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.design-flow .content .per20 .icon-box .flow-icon div.para {
+  width: 102px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.design-flow .content .per20 .icon-box .flow-icon div.para p {
+  color: #fff;
+  font-size: 17px;
+  text-align: center;
+}
+.design-flow .content .per20 .icon-box .flow-icon1 {
+  background: #FFA56F;
+  top: 0;
+}
+.design-flow .content .per20 .icon-box .flow-icon2 {
+  background: #FF6F6F;
+  bottom: 0;
+}
+.design-flow .content .per20 .icon-box .flow-icon3 {
+  background: #14BD8C;
+}
+.design-flow .content .per20 .icon-box .flow-icon4 {
+  background: #43A5EA;
+  bottom: 0;
+}
+.design-flow .content .per20 .icon-box .flow-icon5 {
+  background: #D070E8;
+}
+.design-flow .content .per20 .item-box {
+  position: relative;
+  height: 350px;
+}
+.design-flow .content .per20 .item-box .flow-items {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  display: inline-block;
+  width: 70%;
+}
+.design-flow .content .per20 .item-box .flow-items h3 {
+  font-size: 20px;
+  color: #3A2628;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+.design-flow .content .per20 .item-box .flow-items p {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+  color: #adadad;
+}
+@media screen and (max-width: 1280px) {
+  .design-flow .content .pic img {
+    width: 80%;
+  }
+}
+/*3.海报设计流程结束*/
+/*4.案例展示开始*/
+.case-show .container {
+  padding-bottom: 60px;
+}
+.case-show .per25 {
+  margin-bottom: 38px;
+}
+.case-show .per25 .pic {
+  width: 87.66667%;
+}
+.case-show .per25 .pic img {
+  width: 100%;
+}
+/*4.案例展示结束*/
+/*宣传海报制作结束*/
+/*产品服务结束*/

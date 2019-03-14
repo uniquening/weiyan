@@ -1,0 +1,107 @@
+/*舆论管理系统开始*/
+/*2.产品介绍开始*/
+/*2.产品介绍结束*/
+/*3.我们的优势开始*/
+.pom-our-advant {
+  min-height: 738px;
+}
+.pom-our-advant .wechat-our-advant-content {
+  width: 90%;
+  margin: 0 auto;
+}
+/*3.我们的优势结束*/
+/*4.针对的问题开始*/
+.pom-target-issues .pom-target-issues-content {
+  padding: 37px 0 28px;
+}
+.pom-target-issues .pom-target-issues-content .row .per-left {
+  width: 51%;
+}
+.pom-target-issues .pom-target-issues-content .row .per-left .pic img {
+  width: 100%;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right {
+  width: 49%;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box {
+  padding-top: 30px;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row {
+  margin-bottom: 145px;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row .per-left-inner {
+  float: left;
+  width: 19.42%;
+  padding-left: 67px;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row .per-left-inner .serial-number {
+  width: 41px;
+  height: 41px;
+  border-radius: 50%;
+  display: inline-block;
+  color: #fff;
+  line-height: 41px;
+  text-align: center;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row .per-right-inner {
+  float: left;
+  width: 80.58%;
+  padding-left: 33px;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row:nth-of-type(1) .per-left-inner .serial-number {
+  background-color: #F9795B;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row:nth-of-type(2) .per-left-inner .serial-number {
+  background-color: #FF8383;
+}
+.pom-target-issues .pom-target-issues-content .row .per-right .text-box .row:nth-of-type(3) .per-left-inner .serial-number {
+  background-color: #38CFEA;
+}
+/*4.针对的问题结束*/
+/*5.解决思路开始*/
+.pom-solve-thinking .tictok-plan-content {
+  height: 418px;
+}
+.pom-solve-thinking .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box {
+  width: 307px;
+  width: ;
+  height: 418px;
+}
+.pom-solve-thinking .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item {
+  top: 99px;
+  width: 165px;
+}
+.pom-solve-thinking .tictok-plan-content .tictok-plan-bg .per33 .tictok-plan-box .tictok-plan-item h2 {
+  margin-top: 20px;
+}
+/*5.解决思路结束*/
+/*6.解决方案开始*/
+.pom-solution .content .per25 .tcd-operate-steps-ord-box {
+  width: 92.6666667%;
+  box-shadow: -7px 0px 38px 2px rgba(151, 23, 23, 0.15);
+  border-radius: 15px;
+  background-color: #fff;
+}
+.pom-solution .content .per25 .tcd-operate-steps-ord-box .tcd-operate-steps-ord-item {
+  border-radius: 15px;
+  width: 100%;
+}
+.pom-solution .content .per25 .tcd-operate-steps-ord-box .tcd-operate-steps-ord-item .pic {
+  font-size: 0;
+}
+.pom-solution .content .per25 .tcd-operate-steps-ord-box .tcd-operate-steps-ord-item .text {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.pom-solution .content .per25 .tcd-operate-steps-ord-box .text-p {
+  padding-top: 53px;
+  height: 179px;
+}
+.pom-solution .content .per25 .tcd-operate-steps-ord-box .text-p p {
+  width: 65.48%;
+  margin: 0 auto;
+  font-size: 15px;
+  color: #ADADAD;
+}
+/*6.解决方案结束*/
+/*舆论管理系统结束*/

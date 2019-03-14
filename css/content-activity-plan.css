@@ -1,0 +1,316 @@
+/*内容活动策划开始*/
+/*2.内容策划步骤开始*/
+.cap-planning-steps1 {
+  max-width: 1920px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+}
+.cap-planning-steps1 .cap-planning-steps-title {
+  margin-bottom: 0;
+}
+.cap-planning-steps {
+  max-width: 1920px;
+  margin: 0 auto;
+  background: url(../images/cap-planning-steps-bg.png) no-repeat;
+  background-size: 100% 100%;
+}
+.cap-planning-steps .cap-planning-steps-content {
+  min-height: 799px;
+  position: relative;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box {
+  width: 73.5%;
+  min-height: 210px;
+  background-color: #fff;
+  box-shadow: 0px 0px 32px 0px rgba(199, 199, 199, 0.36);
+  border-radius: 6px;
+  display: inline-block;
+  position: relative;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item {
+  padding-top: 57px;
+  padding-bottom: 55px;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item .circle {
+  position: absolute;
+  display: inline-block;
+  left: 50%;
+  top: 0;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item .circle span {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #FF4835;
+  color: #fff;
+  font-size: 36px;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 60px;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item .text {
+  width: 79.89%;
+  margin: 0 auto;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item .text h2 {
+  color: #3A2628;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 23px;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item .text p {
+  color: #6D6D6D;
+  font-size: 16px;
+  text-align: left;
+  max-height: 63px;
+  overflow: hidden;
+}
+.cap-planning-steps .cap-planning-steps-content .per33 .item-box .item .down-arrow {
+  border-width: 15px 18.5px;
+  border-color: #fff transparent transparent transparent;
+  border-style: solid;
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.cap-planning-steps .cap-planning-steps-content .per33:nth-of-type(1) {
+  text-align: left;
+  position: relative;
+  top: 24.2em;
+  left: 0.5em;
+}
+.cap-planning-steps .cap-planning-steps-content .per33:nth-of-type(2) {
+  text-align: center;
+  position: relative;
+  top: 11em;
+  left: -0.5em;
+}
+.cap-planning-steps .cap-planning-steps-content .per33:nth-of-type(3) {
+  text-align: right;
+  position: relative;
+  top: 5em;
+  right: 0;
+}
+/*2.内容策划步骤结束*/
+/*3.内容策划的六个核心环节开始*/
+.cap-six-core-links {
+  padding-bottom: 110px;
+}
+.cap-six-core-links .cap-six-core-links-content {
+  min-height: 550px;
+  position: relative;
+  left: 30px;
+}
+.cap-six-core-links .cap-six-core-links-content .pic {
+  position: relative;
+  left: 30px;
+}
+.cap-six-core-links .cap-six-core-links-content .text {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.cap-six-core-links .cap-six-core-links-content .text h2 {
+  width: 285px;
+  height: 81px;
+  line-height: 81px;
+  text-align: center;
+  font-size: 26px;
+  color: #241B1C;
+  font-weight: bold;
+  position: absolute;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.cap-six-core-links .cap-six-core-links-content .text h2:first-of-type {
+  left: 47%;
+  top: 0;
+}
+.cap-six-core-links .cap-six-core-links-content .text h2:nth-of-type(2) {
+  left: 21%;
+  top: 103px;
+}
+.cap-six-core-links .cap-six-core-links-content .text h2:nth-of-type(3) {
+  left: 13.5%;
+  top: 220px;
+}
+.cap-six-core-links .cap-six-core-links-content .text h2:nth-of-type(4) {
+  left: 14%;
+  top: 341px;
+}
+.cap-six-core-links .cap-six-core-links-content .text h2:nth-of-type(5) {
+  left: 22%;
+  top: 468px;
+}
+.cap-six-core-links .cap-six-core-links-content .text h2:nth-of-type(6) {
+  right: 9%;
+  top: 300px;
+  -webkit-transform: none;
+          transform: none;
+}
+/*3.内容策划的六个核心环节结束*/
+/*4.政务活动策划要点开始*/
+.cap-key-point .container .cap-key-point-box {
+  background: #ffffff;
+  box-shadow: 0px 0px 32px 0px rgba(199, 199, 199, 0.36);
+  min-height: 780px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-title {
+  padding-top: 42px;
+  padding-bottom: 46px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-title h2 {
+  color: 26px;
+  color: #3A2628;
+  padding-left: 50px;
+  font-weight: 400;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content {
+  padding-left: 103px;
+  padding-right: 103px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row {
+  border: 1px solid #DFDFDF;
+  min-height: 130px;
+  padding-top: 28px;
+  margin-bottom: 23px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-left {
+  float: left;
+  width: 146px;
+  width: 14.66%;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-left .pic {
+  text-align: right;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-left .pic img {
+  width: 62.33%;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-right {
+  float: left;
+  width: 850px;
+  width: 85.34%;
+  padding-left: 48px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-right .text {
+  padding-right: 56px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-right .text h2 {
+  color: #3A2628;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.cap-key-point .container .cap-key-point-box .cap-key-point-content .row .per-right .text p {
+  font-size: 16px;
+  color: #959595;
+}
+/*4.政务活动策划要点结束*/
+/*5.政务活动策划的优势开始*/
+.cap-advant {
+  min-height: 660px;
+  padding-bottom: 111px;
+}
+.cap-advant .cap-advant-content .per33 .item-box {
+  display: inline-block;
+  width: 94.5%;
+  min-height: 420px;
+  border: 1px solid #dfdfdf;
+}
+.cap-advant .cap-advant-content .per33 .item-box .item {
+  margin-bottom: 32px;
+  width: 100%;
+}
+.cap-advant .cap-advant-content .per33 .item-box .item .pic {
+  width: 100%;
+}
+.cap-advant .cap-advant-content .per33 .item-box .item .pic img {
+  width: 100%;
+}
+.cap-advant .cap-advant-content .per33 .item-box .text {
+  width: 84.4%;
+  margin: 0 auto;
+}
+.cap-advant .cap-advant-content .per33 .item-box .text h2 {
+  color: #3A2628;
+  font-size: 18px;
+  margin-bottom: 19px;
+  text-align: center;
+}
+.cap-advant .cap-advant-content .per33 .item-box .text p {
+  text-align: left;
+}
+.cap-advant .cap-advant-content .per33:nth-of-type(2) {
+  text-align: center;
+}
+.cap-advant .cap-advant-content .per33:nth-of-type(3) {
+  text-align: right;
+}
+/*5.政务活动策划的优势结束*/
+/*6.我们的客户开始*/
+.cap-our-customer {
+  background-color: #f9f9f9;
+  min-height: 900px;
+}
+.cap-our-customer .cap-our-customer-title p {
+  margin-top: 23px;
+}
+.cap-our-customer .cap-our-customer-content {
+  position: relative;
+  top: 0;
+}
+.cap-our-customer .cap-our-customer-content .row .pic {
+  width: 400px;
+  position: absolute;
+  opacity: 0.5;
+}
+.cap-our-customer .cap-our-customer-content .row .pic img {
+  width: 100%;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(1) {
+  margin-left: 0;
+  top: 43px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(2) {
+  margin-left: 33%;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(3) {
+  margin-left: 66%;
+  top: 43px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(4) {
+  margin-left: -10%;
+  top: 200px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(5) {
+  margin-left: 23%;
+  top: 200px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(6) {
+  margin-left: 56%;
+  top: 200px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(7) {
+  margin-left: 0;
+  top: 335px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(8) {
+  margin-left: 33%;
+  top: 385px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:nth-of-type(9) {
+  margin-left: 66%;
+  top: 350px;
+}
+.cap-our-customer .cap-our-customer-content .row .pic:hover {
+  opacity: 1;
+}
+/*6.我们的客户结束*/
+/*内容活动策划结束*/

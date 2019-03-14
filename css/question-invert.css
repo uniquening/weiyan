@@ -1,0 +1,178 @@
+/*问卷调查开始*/
+/*1.海报制作开始*/
+.qui-poster .wrapper .pic img {
+  width: 100%;
+  height: auto;
+}
+.qui-poster .wrapper .text-box .container .text {
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.qui-poster .wrapper .text-box .container .text h1,
+.qui-poster .wrapper .text-box .container .text p {
+  color: #FEFEFE;
+}
+.qui-poster .wrapper .text-box .container .text h1 {
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: 5px;
+}
+.qui-poster .wrapper .text-box .container .text p {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 2px;
+  width: 45%;
+  line-height: 1.7;
+}
+.qui-poster .wrapper .text-box .container a {
+  text-decoration: none;
+  width: 15.104167%;
+  color: #F44A38;
+  top: 57.34%;
+  display: inline-block;
+  text-align: center;
+  font-size: 0px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.qui-poster .wrapper .text-box .container a img {
+  width: 100%;
+}
+/*1.海报制作结束*/
+/*2.应用功能介绍开始*/
+.qui-app-func {
+  padding-bottom: 87px;
+}
+.qui-app-func .qui-app-func-content .per20 {
+  height: 370px;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box {
+  width: 100%;
+  height: 100%;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box .qui-app-func-item {
+  width: 82.5%;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box .qui-app-func-item .pic {
+  padding-top: 55px;
+  height: 186px;
+  text-align: center;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box .qui-app-func-item .pic img {
+  width: 103px;
+  width: 52.020202%;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box .qui-app-func-item .text {
+  text-align: center;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box .qui-app-func-item .text h2 {
+  text-align: center;
+  color: #3A2628;
+  font-size: 16px;
+  margin-bottom: 16px;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box .qui-app-func-item .text p {
+  text-align: left;
+  color: #828182;
+  font-size: 12px;
+  padding: 0 18px;
+  transition: all 1s;
+  -ms-transition: all 1s;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box:hover {
+  background-color: #fff;
+  box-shadow: 0px 0px 32px 0px rgba(203, 198, 198, 0.53);
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box:hover .qui-app-func-item {
+  padding-top: 20px;
+  width: 82.5%;
+  margin: 0 auto;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box:hover .qui-app-func-item .pic {
+  text-align: center;
+  margin-bottom: 18px;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box:hover .qui-app-func-item .pic img {
+  width: 158px;
+  width: 60.798%;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box:hover .qui-app-func-item .text h2 {
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+.qui-app-func .qui-app-func-content .per20 .qui-app-func-box:hover .qui-app-func-item .text p {
+  font-size: 14px;
+  padding: 0;
+}
+/*2.应用功能介绍结束*/
+/*3.我们的优势开始*/
+.qui-our-advant {
+  background-color: #f9f9f9;
+  padding-bottom: 74px;
+}
+.qui-our-advant .qui-our-advant-content .per33 {
+  height: 249px;
+}
+.qui-our-advant .qui-our-advant-content .per33 .pic {
+  height: 100%;
+}
+.qui-our-advant .qui-our-advant-content .per33 .pic img {
+  width: 100%;
+  height: 100%;
+}
+.qui-our-advant .qui-our-advant-content .per33 .text {
+  padding: 79px 49px 0;
+}
+.qui-our-advant .qui-our-advant-content .per33 .text h2 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 400;
+  color: #3A2628;
+  margin-bottom: 29px;
+}
+.qui-our-advant .qui-our-advant-content .per33 .text p {
+  text-indent: 2em;
+  font-size: 18px;
+  color: #8D8889;
+}
+.qui-our-advant .qui-our-advant-content .bg-white {
+  background-color: #fff;
+  position: relative;
+}
+.qui-our-advant .qui-our-advant-content .bg-white:after {
+  content: '';
+  border-width: 26px 14px;
+  border-style: solid;
+  display: inline-block;
+  position: absolute;
+  transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.qui-our-advant .qui-our-advant-content .bg-white.triangle-down:after {
+  border-color: #fff transparent transparent transparent;
+  bottom: -52px;
+  left: 50%;
+}
+.qui-our-advant .qui-our-advant-content .bg-white.triangle-up:after {
+  border-color: transparent transparent #fff transparent;
+  top: -52px;
+  left: 50%;
+}
+/*3.我们的优势结束*/
+/*4.应用场景开始*/
+/*4.应用场景结束*/
+/*问卷调查结束*/
